@@ -6,6 +6,7 @@ Using this data folder we can all fight online using the same exact mods.
 * Make sure your game is up to date and using the steam version.
 * Need to have XV2Patcher (https://animegamemods.freeforums.net/thread/4059/tools-eternity)
 * Need to have XV2 Mods Installer (https://animegamemods.freeforums.net/thread/821/xv2-mods-installer)
+* Click the green code button in the upper right hand corner and choose download ZIP file
 
 ## Set Up
 ---
@@ -17,9 +18,9 @@ to
 ```
 excessive_air_contamination = true
 ```
-* Next steps are very important
+* Naming steps
   * Rename your data folder to _data
   * Unzip DBXV2-MOF-Data-Folder-main.zip
   * Open DBXV2-MOF-Data-Folder-main and rename folder INSIDE to data
   * Drag new data folder into DB Xenoverse 2 directory
-  * Start game from bin folder
+* Start game from bin folder
