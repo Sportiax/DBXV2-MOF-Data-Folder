@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EMM Version="37568">
+  <Material Index="0" UseLocalCopy="False" Name="eye_L" Shader="TOON_UNIF_EYE_MUT3_DFD">
+    <I_66 value="65535" />
+    <Parameter Name="TexScrl0U" Type="Float" value="2.25E-05" />
+    <Parameter Name="TexScrl0V" Type="Float" value="-1.425E-05" />
+    <Parameter Name="MatCol0R" Type="Float" value="0" />
+    <Parameter Name="MatCol0G" Type="Float" value="0" />
+    <Parameter Name="MatCol0B" Type="Float" value="0" />
+    <Parameter Name="MatCol0A" Type="Float" value="0.45" />
+    <Parameter Name="MatCol1R" Type="Float" value="0.81" />
+    <Parameter Name="MatCol1G" Type="Float" value="0.85" />
+    <Parameter Name="MatCol1B" Type="Float" value="0.9" />
+    <Parameter Name="MatCol1A" Type="Float" value="0.4" />
+    <Parameter Name="MatCol2R" Type="Float" value="1" />
+    <Parameter Name="MatCol2G" Type="Float" value="1" />
+    <Parameter Name="MatCol2B" Type="Float" value="1" />
+    <Parameter Name="MatCol2A" Type="Float" value="0.5" />
+    <Parameter Name="MatCol3R" Type="Float" value="1" />
+    <Parameter Name="MatCol3G" Type="Float" value="1" />
+    <Parameter Name="MatCol3B" Type="Float" value="1" />
+    <Parameter Name="MatCol3A" Type="Float" value="0.5" />
+    <Parameter Name="MatScale0X" Type="Float" value="1" />
+    <Parameter Name="MatScale0Y" Type="Float" value="1" />
+    <Parameter Name="MatScale0Z" Type="Float" value="1" />
+    <Parameter Name="MatScale0W" Type="Float" value="0.03" />
+    <Parameter Name="MatScale1X" Type="Float" value="0" />
+    <Parameter Name="MatScale1Y" Type="Float" value="1" />
+    <Parameter Name="MatScale1Z" Type="Float" value="1" />
+    <Parameter Name="MatScale1W" Type="Float" value="1" />
+  </Material>
+  <Material Index="1" UseLocalCopy="False" Name="eye_R" Shader="TOON_UNIF_EYE_MUT3_DFD">
+    <I_66 value="65535" />
+    <Parameter Name="TexScrl0U" Type="Float" value="-2.25E-05" />
+    <Parameter Name="TexScrl0V" Type="Float" value="-1.425E-05" />
+    <Parameter Name="MatCol0R" Type="Float" value="0" />
+    <Parameter Name="MatCol0G" Type="Float" value="0" />
+    <Parameter Name="MatCol0B" Type="Float" value="0" />
+    <Parameter Name="MatCol0A" Type="Float" value="0.45" />
+    <Parameter Name="MatCol1R" Type="Float" value="0.81" />
+    <Parameter Name="MatCol1G" Type="Float" value="0.85" />
+    <Parameter Name="MatCol1B" Type="Float" value="0.9" />
+    <Parameter Name="MatCol1A" Type="Float" value="0.4" />
+    <Parameter Name="MatCol2R" Type="Float" value="1" />
+    <Parameter Name="MatCol2G" Type="Float" value="1" />
+    <Parameter Name="MatCol2B" Type="Float" value="1" />
+    <Parameter Name="MatCol2A" Type="Float" value="0.5" />
+    <Parameter Name="MatCol3R" Type="Float" value="1" />
+    <Parameter Name="MatCol3G" Type="Float" value="1" />
+    <Parameter Name="MatCol3B" Type="Float" value="1" />
+    <Parameter Name="MatCol3A" Type="Float" value="0.5" />
+    <Parameter Name="MatScale0X" Type="Float" value="1" />
+    <Parameter Name="MatScale0Y" Type="Float" value="1" />
+    <Parameter Name="MatScale0Z" Type="Float" value="1" />
+    <Parameter Name="MatScale0W" Type="Float" value="0.03" />
+    <Parameter Name="MatScale1X" Type="Float" value="0" />
+    <Parameter Name="MatScale1Y" Type="Float" value="1" />
+    <Parameter Name="MatScale1Z" Type="Float" value="1" />
+    <Parameter Name="MatScale1W" Type="Float" value="1" />
+  </Material>
+</EMM>
