@@ -19,7 +19,7 @@ to
 excessive_air_contamination = true
 ```
 * Naming steps:
-  * Rename your data folder to _data
+  * Rename YOUR data folder to _data
   * Unzip DBXV2-MOF-Data-Folder-main.zip
   * Open DBXV2-MOF-Data-Folder-main and rename folder INSIDE to data
   * Drag new data folder into DB Xenoverse 2 directory
