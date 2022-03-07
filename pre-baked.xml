@@ -5,7 +5,9 @@
     <!--This is the list of additional ozarus to add to the game.-->
     <OZARUS value="" />
     <!--This is the list of characters that will have an auto battle portrait.-->
-    <AUTO_BTL_PORT value="" />
+    <AUTO_BTL_PORT value="0xa0" />
+    <!--This is the list of body shapes to apply.-->
+    <BodyShape cms_id="0xa0" body_shape="6" />
     <!--This is the data of cus auras.-->
     <CusAuraData cus_aura_id="0x30" aur_aura_id="0x5">
         <BEHAVIOUR_11 value="0x0" />
@@ -337,4 +339,177 @@
         <BCS_HAIR_COLOR value="5" />
         <BCS_EYES_COLOR value="5" />
     </CusAuraData>
+    <CusAuraData cus_aura_id="0x4e" aur_aura_id="0x5">
+        <BEHAVIOUR_11 value="0x0" />
+        <INTEGER_2 value="0" />
+        <BEHAVIOUR_10 value="0x0" />
+        <INTEGER_3 value="0" />
+        <FORCE_TELEPORT value="false" />
+        <BEHAVIOUR_13 value="0x0" />
+        <REMOVE_HAIR_ACCESSORIES value="0xff" />
+        <BCS_HAIR_COLOR value="33" />
+        <BCS_EYES_COLOR value="58" />
+    </CusAuraData>
+    <CusAuraData cus_aura_id="0x4f" aur_aura_id="0x6">
+        <BEHAVIOUR_11 value="0x0" />
+        <INTEGER_2 value="0" />
+        <BEHAVIOUR_10 value="0x0" />
+        <INTEGER_3 value="0" />
+        <FORCE_TELEPORT value="false" />
+        <BEHAVIOUR_13 value="0x0" />
+        <REMOVE_HAIR_ACCESSORIES value="0xff" />
+        <BCS_HAIR_COLOR value="33" />
+        <BCS_EYES_COLOR value="58" />
+    </CusAuraData>
+    <CusAuraData cus_aura_id="0x50" aur_aura_id="0x7">
+        <BEHAVIOUR_11 value="0x0" />
+        <INTEGER_2 value="0" />
+        <BEHAVIOUR_10 value="0x0" />
+        <INTEGER_3 value="0" />
+        <FORCE_TELEPORT value="false" />
+        <BEHAVIOUR_13 value="0x0" />
+        <REMOVE_HAIR_ACCESSORIES value="0xff" />
+        <BCS_HAIR_COLOR value="33" />
+        <BCS_EYES_COLOR value="58" />
+    </CusAuraData>
+    <CusAuraData cus_aura_id="0x51" aur_aura_id="0x8">
+        <BEHAVIOUR_11 value="0x0" />
+        <INTEGER_2 value="0" />
+        <BEHAVIOUR_10 value="0x0" />
+        <INTEGER_3 value="0" />
+        <FORCE_TELEPORT value="false" />
+        <BEHAVIOUR_13 value="0x0" />
+        <REMOVE_HAIR_ACCESSORIES value="0xff" />
+        <BCS_HAIR_COLOR value="0" />
+        <BCS_EYES_COLOR value="0xffffffff" />
+    </CusAuraData>
+    <CusAuraData cus_aura_id="0x52" aur_aura_id="0x9">
+        <BEHAVIOUR_11 value="0x0" />
+        <INTEGER_2 value="0" />
+        <BEHAVIOUR_10 value="0x0" />
+        <INTEGER_3 value="0" />
+        <FORCE_TELEPORT value="false" />
+        <BEHAVIOUR_13 value="0x0" />
+        <REMOVE_HAIR_ACCESSORIES value="0xff" />
+        <BCS_HAIR_COLOR value="9" />
+        <BCS_EYES_COLOR value="9" />
+    </CusAuraData>
+    <CusAuraData cus_aura_id="0x53" aur_aura_id="0x15">
+        <BEHAVIOUR_11 value="0x0" />
+        <INTEGER_2 value="0" />
+        <BEHAVIOUR_10 value="0x0" />
+        <INTEGER_3 value="0" />
+        <FORCE_TELEPORT value="false" />
+        <BEHAVIOUR_13 value="0x0" />
+        <REMOVE_HAIR_ACCESSORIES value="0xff" />
+        <BCS_HAIR_COLOR value="68" />
+        <BCS_EYES_COLOR value="68" />
+    </CusAuraData>
+    <CusAuraData cus_aura_id="0x54" aur_aura_id="0x21">
+        <BEHAVIOUR_11 value="0x0" />
+        <INTEGER_2 value="0" />
+        <BEHAVIOUR_10 value="0x0" />
+        <INTEGER_3 value="0" />
+        <FORCE_TELEPORT value="false" />
+        <BEHAVIOUR_13 value="0x0" />
+        <REMOVE_HAIR_ACCESSORIES value="0xff" />
+        <BCS_HAIR_COLOR value="59" />
+        <BCS_EYES_COLOR value="59" />
+    </CusAuraData>
+    <CusAuraData cus_aura_id="0x55" aur_aura_id="0x27">
+        <BEHAVIOUR_11 value="0x0" />
+        <INTEGER_2 value="0" />
+        <BEHAVIOUR_10 value="0x0" />
+        <INTEGER_3 value="0" />
+        <FORCE_TELEPORT value="false" />
+        <BEHAVIOUR_13 value="0x0" />
+        <REMOVE_HAIR_ACCESSORIES value="0xff" />
+        <BCS_HAIR_COLOR value="67" />
+        <BCS_EYES_COLOR value="67" />
+    </CusAuraData>
+    <CusAuraData cus_aura_id="0x56" aur_aura_id="0x24">
+        <BEHAVIOUR_11 value="0xa" />
+        <INTEGER_2 value="0" />
+        <BEHAVIOUR_10 value="0xa" />
+        <INTEGER_3 value="0" />
+        <FORCE_TELEPORT value="false" />
+        <BEHAVIOUR_13 value="0x0" />
+        <REMOVE_HAIR_ACCESSORIES value="0xff" />
+        <BCS_HAIR_COLOR value="0xffffffff" />
+        <BCS_EYES_COLOR value="5" />
+    </CusAuraData>
+    <CusAuraData cus_aura_id="0x57" aur_aura_id="0x24">
+        <BEHAVIOUR_11 value="0x0" />
+        <INTEGER_2 value="0" />
+        <BEHAVIOUR_10 value="0x0" />
+        <INTEGER_3 value="0" />
+        <FORCE_TELEPORT value="false" />
+        <BEHAVIOUR_13 value="0x0" />
+        <REMOVE_HAIR_ACCESSORIES value="0xff" />
+        <BCS_HAIR_COLOR value="5" />
+        <BCS_EYES_COLOR value="5" />
+    </CusAuraData>
+    <ColorsMap cms_id="0xa0" costume="0">
+        <CC01_PANTS_ value="68" />
+        <SKIN_ value="104" />
+        <eye_ value="68" />
+        <CC00_BUST_ value="63" />
+        <HAIR_ value="68" />
+        <CC00_PANTS_ value="63" />
+        <CC01_BUST_ value="68" />
+        <CC02_BUST_ value="68" />
+        <CC03_BUST_ value="63" />
+        <CC02_PANTS_ value="63" />
+        <CC03_PANTS_ value="63" />
+        <CC00_RIST_ value="63" />
+        <CC01_RIST_ value="68" />
+        <CC02_RIST_ value="68" />
+        <CC03_RIST_ value="0" />
+        <CC00_BOOTS_ value="63" />
+        <CC01_BOOTS_ value="68" />
+        <CC02_BOOTS_ value="63" />
+        <CC03_BOOTS_ value="68" />
+    </ColorsMap>
+    <ColorsMap cms_id="0xa0" costume="1">
+        <CC01_PANTS_ value="68" />
+        <SKIN_ value="104" />
+        <eye_ value="68" />
+        <CC00_BUST_ value="63" />
+        <HAIR_ value="68" />
+        <CC00_PANTS_ value="63" />
+        <CC01_BUST_ value="68" />
+        <CC02_BUST_ value="68" />
+        <CC03_BUST_ value="63" />
+        <CC02_PANTS_ value="63" />
+        <CC03_PANTS_ value="63" />
+        <CC00_RIST_ value="63" />
+        <CC01_RIST_ value="68" />
+        <CC02_RIST_ value="68" />
+        <CC03_RIST_ value="0" />
+        <CC00_BOOTS_ value="63" />
+        <CC01_BOOTS_ value="68" />
+        <CC02_BOOTS_ value="63" />
+        <CC03_BOOTS_ value="68" />
+    </ColorsMap>
+    <ColorsMap cms_id="0xa0" costume="2">
+        <CC01_PANTS_ value="68" />
+        <SKIN_ value="104" />
+        <eye_ value="68" />
+        <CC00_BUST_ value="68" />
+        <HAIR_ value="68" />
+        <CC00_PANTS_ value="63" />
+        <CC01_BUST_ value="68" />
+        <CC02_BUST_ value="63" />
+        <CC03_BUST_ value="63" />
+        <CC02_PANTS_ value="63" />
+        <CC03_PANTS_ value="63" />
+        <CC00_RIST_ value="63" />
+        <CC01_RIST_ value="68" />
+        <CC02_RIST_ value="68" />
+        <CC03_RIST_ value="0" />
+        <CC00_BOOTS_ value="63" />
+        <CC01_BOOTS_ value="68" />
+        <CC02_BOOTS_ value="63" />
+        <CC03_BOOTS_ value="68" />
+    </ColorsMap>
 </Xv2PreBaked>
