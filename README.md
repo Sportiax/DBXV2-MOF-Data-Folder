@@ -10,7 +10,7 @@ Using this data folder we can all fight online using the same exact mods.
 * Click the green code button in the upper right hand corner and choose download ZIP file
 
 ## Set Up
-Edit the xv2pathcer.ini file, change
+Edit the xv2pathcer.ini file, change line 54
 ```
 excessive_air_contamination = false
 ```
