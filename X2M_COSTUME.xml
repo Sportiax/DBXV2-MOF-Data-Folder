@@ -21,4 +21,11 @@
         <PARTSETS value="565, 566, 567, 568, 569, 570, 571, 572, 573, 574" />
         <RACES value="0, 1" />
     </X2mCostumeEntry>
+    <X2mCostumeEntry>
+        <GUID value="a5578d60-b298-3310-4a6d-093246ff0e37" />
+        <PARTSETS value="546" />
+        <RACES value="0" />
+        <IDB_ENTRIES value="0x14a, 0x14b, 0x14c" />
+        <COSTUME_TYPES value="0, 1, 2" />
+    </X2mCostumeEntry>
 </X2mCostumeFile>
