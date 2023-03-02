@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TrackingXml>
+  <!-- For tracking installed file entries so that they can be updated and uninstalled. -->
+  <Mod Name="Yet Another Transformable Tail" Author="Sportiax" Version="3.0.0.0">
+    <Files>
+      <File FilePath="chara/HUM/HUM.bcs">
+        <Section FileSection="BCS_PartSets" IDs="180" />
+      </File>
+      <File FilePath="chara/HUF/HUF.bcs">
+        <Section FileSection="BCS_PartSets" IDs="181" />
+      </File>
+    </Files>
+    <MsgComponents />
+    <JungleFiles>
+      <File FilePath="chara/HUM/HUM_000.esk" />
+      <File FilePath="chara/HUM/HUM_Transform_Tail_Face_Ear.dyt.emb" />
+      <File FilePath="chara/HUM/HUM_Transform_Tail_Face_ear.emb" />
+      <File FilePath="chara/HUM/HUM_Transform_Tail_Face_ear.emd" />
+      <File FilePath="chara/HUM/HUM_Transform_Tail_Face_ear.emm" />
+      <File FilePath="chara/HUF/HUF_000.esk" />
+      <File FilePath="chara/HUF/HUF_Transform_Tail_Face_Ear.dyt.emb" />
+      <File FilePath="chara/HUF/HUF_Transform_Tail_Face_ear.emb" />
+      <File FilePath="chara/HUF/HUF_Transform_Tail_Face_ear.emd" />
+      <File FilePath="chara/HUF/HUF_Transform_Tail_Face_ear.emm" />
+      <File FilePath="chara/SYF/SYF.ean" />
+      <File FilePath="chara/SYM/SYM.ean" />
+      <File FilePath="chara/HUF/HUF.ean" />
+      <File FilePath="chara/HUM/HUM.ean" />
+      <File FilePath="chara/CMN/CMN.HUF.lby.ean" />
+      <File FilePath="chara/CMN/CMN.HUM.lby.ean" />
+    </JungleFiles>
+    <Aliases>
+      <Alias Name="bcsalias" Value="181" />
+    </Aliases>
+  </Mod>
+</TrackingXml>

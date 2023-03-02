@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TrackingXml>
+  <!-- For tracking installed file entries so that they can be updated and uninstalled. -->
+  <Mod Name="No Limitations" Author="Sportiax" Version="1.5.0.0">
+    <Files>
+      <File FilePath="system/powerup_parameter.pup">
+        <Section FileSection="PUP_Entry" IDs="2,3,4,30,31,32,33,34,35,36,106,107,108,110,111,117,118" />
+      </File>
+      <File FilePath="system/item/talisman_item.idb">
+        <Section FileSection="IDB_Entries" IDs="203_9,204_9,205_9,216_9,219_9,220_9,225_9,227_9" />
+      </File>
+      <File FilePath="msg/proper_noun_skill_met_info_en.msg">
+        <Section FileSection="MSG_Entries" IDs="0,2,3,4,5,17,18,19,9,10,11,12,13,22,21,23,24" />
+      </File>
+    </Files>
+    <MsgComponents />
+    <JungleFiles />
+    <Aliases />
+  </Mod>
+</TrackingXml>

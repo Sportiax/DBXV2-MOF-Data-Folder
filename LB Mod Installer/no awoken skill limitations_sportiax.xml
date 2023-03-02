@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TrackingXml>
+  <!-- For tracking installed file entries so that they can be updated and uninstalled. -->
+  <Mod Name="No Awoken Skill Limitations" Author="Sportiax" Version="1.7.0.0">
+    <Files>
+      <File FilePath="system/powerup_parameter.pup">
+        <Section FileSection="PUP_Entry" IDs="106,2,3,4,108,117,118,110,111,30,31,32,33,34,35,36,107" />
+      </File>
+      <File FilePath="system/custom_skill.cus">
+        <Section FileSection="CUS_AwokenSkills" IDs="25030,25031,25003" />
+      </File>
+      <File FilePath="system/item/talisman_item.idb">
+        <Section FileSection="IDB_Entries" IDs="216_9,203_9,204_9,205_9,225_9,227_9,219_9,220_9" />
+      </File>
+      <File FilePath="msg/proper_noun_skill_met_info_en.msg">
+        <Section FileSection="MSG_Entries" IDs="2,5,4,14,15,0,17,18,25,7,8,9,10,11,12,29,21,23,3" />
+      </File>
+    </Files>
+    <MsgComponents />
+    <JungleFiles />
+    <Aliases />
+  </Mod>
+</TrackingXml>

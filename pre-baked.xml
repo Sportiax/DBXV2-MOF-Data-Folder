@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Xv2PreBaked>
+    <!--This file is used by xv2patcher and XV2 Mods Installer. It defines characters data that only exist in exe at runtime. -->
+    <!------------------------------------------------>
+    <!--This is the list of additional ozarus to add to the game.-->
+    <OZARUS value="" />
+    <!--This is the list of characters that will have an auto battle portrait.-->
+    <AUTO_BTL_PORT value="0xa0" />
+    <!--This is the data of cus auras.-->
+    <CusAuraData cus_aura_id="0x30" aur_aura_id="0x5">
+        <BEHAVIOUR_11 value="0x0" />
+        <INTEGER_2 value="0" />
+        <BEHAVIOUR_10 value="0x0" />
+        <INTEGER_3 value="0" />
+        <FORCE_TELEPORT value="false" />
+        <BEHAVIOUR_13 value="0x0" />
+        <REMOVE_HAIR_ACCESSORIES value="0xff" />
+        <BCS_HAIR_COLOR value="33" />
+        <BCS_EYES_COLOR value="58" />
+    </CusAuraData>
+    <CusAuraData cus_aura_id="0x31" aur_aura_id="0x6">
+        <BEHAVIOUR_11 value="0x0" />
+        <INTEGER_2 value="0" />
+        <BEHAVIOUR_10 value="0x0" />
+        <INTEGER_3 value="0" />
+        <FORCE_TELEPORT value="false" />
+        <BEHAVIOUR_13 value="0x0" />
+        <REMOVE_HAIR_ACCESSORIES value="0xff" />
+        <BCS_HAIR_COLOR value="33" />
+        <BCS_EYES_COLOR value="58" />
+    </CusAuraData>
+    <CusAuraData cus_aura_id="0x32" aur_aura_id="0x7">
+        <BEHAVIOUR_11 value="0x0" />
+        <INTEGER_2 value="0" />
+        <BEHAVIOUR_10 value="0x0" />
+        <INTEGER_3 value="0" />
+        <FORCE_TELEPORT value="false" />
+        <BEHAVIOUR_13 value="0x0" />
+        <REMOVE_HAIR_ACCESSORIES value="0xff" />
+        <BCS_HAIR_COLOR value="33" />
+        <BCS_EYES_COLOR value="58" />
+    </CusAuraData>
+    <CusAuraData cus_aura_id="0x33" aur_aura_id="0x8">
+        <BEHAVIOUR_11 value="0x0" />
+        <INTEGER_2 value="0" />
+        <BEHAVIOUR_10 value="0x0" />
+        <INTEGER_3 value="0" />
+        <FORCE_TELEPORT value="false" />
+        <BEHAVIOUR_13 value="0x0" />
+        <REMOVE_HAIR_ACCESSORIES value="0xff" />
+        <BCS_HAIR_COLOR value="1" />
+        <BCS_EYES_COLOR value="0xffffffff" />
+    </CusAuraData>
+    <CusAuraData cus_aura_id="0x34" aur_aura_id="0x9">
+        <BEHAVIOUR_11 value="0x0" />
+        <INTEGER_2 value="0" />
+        <BEHAVIOUR_10 value="0x0" />
+        <INTEGER_3 value="0" />
+        <FORCE_TELEPORT value="false" />
+        <BEHAVIOUR_13 value="0x0" />
+        <REMOVE_HAIR_ACCESSORIES value="0xff" />
+        <BCS_HAIR_COLOR value="9" />
+        <BCS_EYES_COLOR value="9" />
+    </CusAuraData>
+    <CusAuraData cus_aura_id="0x35" aur_aura_id="0x15">
+        <BEHAVIOUR_11 value="0x0" />
+        <INTEGER_2 value="0" />
+        <BEHAVIOUR_10 value="0x0" />
+        <INTEGER_3 value="0" />
+        <FORCE_TELEPORT value="false" />
+        <BEHAVIOUR_13 value="0x0" />
+        <REMOVE_HAIR_ACCESSORIES value="0xff" />
+        <BCS_HAIR_COLOR value="68" />
+        <BCS_EYES_COLOR value="68" />
+    </CusAuraData>
+    <CusAuraData cus_aura_id="0x36" aur_aura_id="0x21">
+        <BEHAVIOUR_11 value="0x0" />
+        <INTEGER_2 value="0" />
+        <BEHAVIOUR_10 value="0x0" />
+        <INTEGER_3 value="0" />
+        <FORCE_TELEPORT value="false" />
+        <BEHAVIOUR_13 value="0x0" />
+        <REMOVE_HAIR_ACCESSORIES value="0xff" />
+        <BCS_HAIR_COLOR value="59" />
+        <BCS_EYES_COLOR value="59" />
+    </CusAuraData>
+    <CusAuraData cus_aura_id="0x37" aur_aura_id="0x27">
+        <BEHAVIOUR_11 value="0x0" />
+        <INTEGER_2 value="0" />
+        <BEHAVIOUR_10 value="0x0" />
+        <INTEGER_3 value="0" />
+        <FORCE_TELEPORT value="false" />
+        <BEHAVIOUR_13 value="0x0" />
+        <REMOVE_HAIR_ACCESSORIES value="0xff" />
+        <BCS_HAIR_COLOR value="67" />
+        <BCS_EYES_COLOR value="67" />
+    </CusAuraData>
+    <CusAuraData cus_aura_id="0x38" aur_aura_id="0x24">
+        <BEHAVIOUR_11 value="0xa" />
+        <INTEGER_2 value="0" />
+        <BEHAVIOUR_10 value="0xa" />
+        <INTEGER_3 value="0" />
+        <FORCE_TELEPORT value="false" />
+        <BEHAVIOUR_13 value="0x0" />
+        <REMOVE_HAIR_ACCESSORIES value="0xff" />
+        <BCS_HAIR_COLOR value="0xffffffff" />
+        <BCS_EYES_COLOR value="0xffffffff" />
+    </CusAuraData>
+    <CusAuraData cus_aura_id="0x39" aur_aura_id="0x24">
+        <BEHAVIOUR_11 value="0x0" />
+        <INTEGER_2 value="0" />
+        <BEHAVIOUR_10 value="0x0" />
+        <INTEGER_3 value="0" />
+        <FORCE_TELEPORT value="false" />
+        <BEHAVIOUR_13 value="0x0" />
+        <REMOVE_HAIR_ACCESSORIES value="0xff" />
+        <BCS_HAIR_COLOR value="5" />
+        <BCS_EYES_COLOR value="5" />
+    </CusAuraData>
+    <CusAuraData cus_aura_id="0x3a" aur_aura_id="0x5">
+        <BEHAVIOUR_11 value="0x0" />
+        <INTEGER_2 value="0" />
+        <BEHAVIOUR_10 value="0x0" />
+        <INTEGER_3 value="0" />
+        <FORCE_TELEPORT value="true" />
+        <BEHAVIOUR_13 value="0x0" />
+        <REMOVE_HAIR_ACCESSORIES value="0xff" />
+        <BCS_HAIR_COLOR value="0xffffffff" />
+        <BCS_EYES_COLOR value="0xffffffff" />
+    </CusAuraData>
+    <CusAuraData cus_aura_id="0x3b" aur_aura_id="0x25">
+        <BEHAVIOUR_11 value="0x0" />
+        <INTEGER_2 value="0" />
+        <BEHAVIOUR_10 value="0x0" />
+        <INTEGER_3 value="1" />
+        <FORCE_TELEPORT value="false" />
+        <BEHAVIOUR_13 value="0x0" />
+        <REMOVE_HAIR_ACCESSORIES value="0xff" />
+        <BCS_HAIR_COLOR value="6" />
+        <BCS_EYES_COLOR value="46" />
+    </CusAuraData>
+    <CusAuraData cus_aura_id="0x3c" aur_aura_id="0xa">
+        <BEHAVIOUR_11 value="0x0" />
+        <INTEGER_2 value="0" />
+        <BEHAVIOUR_10 value="0x0" />
+        <INTEGER_3 value="1" />
+        <FORCE_TELEPORT value="false" />
+        <BEHAVIOUR_13 value="0x0" />
+        <REMOVE_HAIR_ACCESSORIES value="0xff" />
+        <BCS_HAIR_COLOR value="6" />
+        <BCS_EYES_COLOR value="0xffffffff" />
+    </CusAuraData>
+    <CusAuraData cus_aura_id="0x3d" aur_aura_id="0xd">
+        <BEHAVIOUR_11 value="0x0" />
+        <INTEGER_2 value="0" />
+        <BEHAVIOUR_10 value="0x0" />
+        <INTEGER_3 value="0" />
+        <FORCE_TELEPORT value="false" />
+        <BEHAVIOUR_13 value="0x0" />
+        <REMOVE_HAIR_ACCESSORIES value="0xff" />
+        <BCS_HAIR_COLOR value="0xffffffff" />
+        <BCS_EYES_COLOR value="0xffffffff" />
+    </CusAuraData>
+</Xv2PreBaked>

@@ -1,0 +1,99 @@
+<?xml version="1.0" ?>
+<EMB>
+  <!--index:0-->
+  <File name="Nml_Dmg00.ecf" filename="Nml_Dmg00.ecf" />
+  <!--index:1-->
+  <File name="Nml_DmgL00.ecf" filename="Nml_DmgL00.ecf" />
+  <!--index:2-->
+  <File name="Nml_DmgLL00.ecf" filename="Nml_DmgLL00.ecf" />
+  <!--index:3-->
+  <File name="Nml_Grd00.ecf" filename="Nml_Grd00.ecf" />
+  <!--index:4-->
+  <File name="Nml_Arm00.ecf" filename="Nml_Arm00.ecf" />
+  <!--index:5-->
+  <File name="Spr_Arm00.ecf" filename="Spr_Arm00.ecf" />
+  <!--index:6-->
+  <File name="Hyp_Arm00.ecf" filename="Hyp_Arm00.ecf" />
+  <!--index:7-->
+  <File name="Jst_Grd.ecf" filename="Jst_Grd.ecf" />
+  <!--index:8-->
+  <File name="SS_start.ecf" filename="SS_start.ecf" />
+  <!--index:9-->
+  <File name="UP_start.ecf" filename="UP_start.ecf" />
+  <!--index:10-->
+  <File name="DOWN_start.ecf" filename="DOWN_start.ecf" />
+  <!--index:11-->
+  <File name="State_END.ecf" filename="State_END.ecf" />
+  <!--index:12-->
+  <File name="AVT_SS.ecf" filename="AVT_SS.ecf" />
+  <!--index:13-->
+  <File name="AVT_ULT.ecf" filename="AVT_ULT.ecf" />
+  <!--index:14-->
+  <File name="Kok_03.ecf" filename="Kok_03.ecf" />
+  <!--index:15-->
+  <File name="Kok_05.ecf" filename="Kok_05.ecf" />
+  <!--index:16-->
+  <File name="Kok_10.ecf" filename="Kok_10.ecf" />
+  <!--index:17-->
+  <File name="Evil_change.ecf" filename="Evil_change.ecf" />
+  <!--index:18-->
+  <File name="Life_UP.ecf" filename="Life_UP.ecf" />
+  <!--index:19-->
+  <File name="Ki_UP.ecf" filename="Ki_UP.ecf" />
+  <!--index:20-->
+  <File name="Grd_UP.ecf" filename="Grd_UP.ecf" />
+  <!--index:21-->
+  <File name="Pow_UP.ecf" filename="Pow_UP.ecf" />
+  <!--index:22-->
+  <File name="Def_UP.ecf" filename="Def_UP.ecf" />
+  <!--index:23-->
+  <File name="Speed_UP.ecf" filename="Speed_UP.ecf" />
+  <!--index:24-->
+  <File name="All_UP.ecf" filename="All_UP.ecf" />
+  <!--index:25-->
+  <File name="Life_DOWN.ecf" filename="Life_DOWN.ecf" />
+  <!--index:26-->
+  <File name="Ki_DOWN.ecf" filename="Ki_DOWN.ecf" />
+  <!--index:27-->
+  <File name="Grd_DOWN.ecf" filename="Grd_DOWN.ecf" />
+  <!--index:28-->
+  <File name="Pow_DOWN.ecf" filename="Pow_DOWN.ecf" />
+  <!--index:29-->
+  <File name="Def_DOWN.ecf" filename="Def_DOWN.ecf" />
+  <!--index:30-->
+  <File name="Speed_DOWN.ecf" filename="Speed_DOWN.ecf" />
+  <!--index:31-->
+  <File name="Ice_Dmg.ecf" filename="Ice_Dmg.ecf" />
+  <!--index:32-->
+  <File name="Ice_DmgFin.ecf" filename="Ice_DmgFin.ecf" />
+  <!--index:33-->
+  <File name="Fire_Dmg.ecf" filename="Fire_Dmg.ecf" />
+  <!--index:34-->
+  <File name="Tunder_Dmg.ecf" filename="Tunder_Dmg.ecf" />
+  <!--index:35-->
+  <File name="Poison_Dmg.ecf" filename="Poison_Dmg.ecf" />
+  <!--index:36-->
+  <File name="Sleep_Dmg.ecf" filename="Sleep_Dmg.ecf" />
+  <!--index:37-->
+  <File name="Palsy_Dmg.ecf" filename="Palsy_Dmg.ecf" />
+  <!--index:38-->
+  <File name="Stop_Dmg.ecf" filename="Stop_Dmg.ecf" />
+  <!--index:39-->
+  <File name="DEM_Soul.ecf" filename="DEM_Soul.ecf" />
+  <!--index:40-->
+  <File name="GNT_HENSIN.ecf" filename="GNT_HENSIN.ecf" />
+  <!--index:41-->
+  <File name="GNT_HENSIN2.ecf" filename="GNT_HENSIN2.ecf" />
+  <!--index:42-->
+  <File name="MAP_HENSIN.ecf" filename="MAP_HENSIN.ecf" />
+  <!--index:43-->
+  <File name="MAP_HENSIN2.ecf" filename="MAP_HENSIN2.ecf" />
+  <!--index:44-->
+  <File name="Risan_Grd00.ecf" filename="Risan_Grd00.ecf" />
+  <!--index:45-->
+  <File name="Risan_Grd01.ecf" filename="Risan_Grd01.ecf" />
+  <!--index:46-->
+  <File name="FUU_Fuu_Out.ecf" filename="FUU_Fuu_Out.ecf" />
+  <!--index:47-->
+  <File name="FUU_Fuu_In.ecf" filename="FUU_Fuu_In.ecf" />
+</EMB>

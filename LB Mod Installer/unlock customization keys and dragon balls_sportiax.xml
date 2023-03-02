@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TrackingXml>
+  <!-- For tracking installed file entries so that they can be updated and uninstalled. -->
+  <Mod Name="Unlock Customization Keys And Dragon Balls" Author="Sportiax" Version="1.5.0.0">
+    <Files>
+      <File FilePath="quest/TMQ/tmq_data.qxd">
+        <Section FileSection="QXD_Quest" IDs="68" />
+        <Section FileSection="QXD_Collection" IDs="5100_7_1_1_1_0,5200_7_2_1_1_0,5300_7_3_1_1_0,5400_7_4_1_1_0,5500_7_5_1_1_0,5600_7_6_1_1_0,5700_7_7_1_1_0,21000_7_13_1_1_0,21001_7_14_1_1_0,21002_7_15_1_1_0,21003_7_16_1_1_0,21004_7_17_1_1_0,21005_7_18_1_1_0,21006_7_19_1_1_0,21007_7_20_1_1_0,21008_7_21_1_1_0,21009_7_22_1_1_0,21010_7_23_1_1_0,21011_7_24_1_1_0,21012_7_25_1_1_0,21013_7_26_1_1_0,21014_7_27_1_1_0,21015_7_31_1_1_0,21016_7_32_1_1_0,21017_7_33_1_1_0,21018_7_34_1_1_0,21019_7_35_1_1_0" />
+      </File>
+    </Files>
+    <MsgComponents />
+    <JungleFiles />
+    <Aliases />
+  </Mod>
+</TrackingXml>

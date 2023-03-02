@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<X2mCostumeFile>
+    <!--This file is used by XV2 Mods Installer to track installed costumes. DON'T DELETE THIS FILE OR Xv2 Mods Installer won't be able to update/uninstall costumes properly.-->
+    <X2mCostumeEntry>
+        <GUID value="e2dc312c-8e40-ea06-c686-bcfa1eac29f7" />
+        <PARTSETS value="535" />
+        <RACES value="0, 1, 3" />
+    </X2mCostumeEntry>
+    <X2mCostumeEntry>
+        <GUID value="1a6379d0-94e6-ab7f-2b4a-37877817d213" />
+        <PARTSETS value="536" />
+        <RACES value="0, 1" />
+        <IDB_ENTRIES value="0x9f" />
+        <COSTUME_TYPES value="4" />
+    </X2mCostumeEntry>
+    <X2mCostumeEntry>
+        <GUID value="7b07de50-d511-5f02-6610-08b0fe047b26" />
+        <PARTSETS value="537, 538, 539, 540, 541, 542, 543, 544, 545, 546" />
+        <RACES value="0, 1" />
+    </X2mCostumeEntry>
+    <X2mCostumeEntry>
+        <GUID value="d3c946d3-9fdc-563c-c23e-7ba62181ac89" />
+        <PARTSETS value="555, 556, 557, 558, 559, 560, 561, 562" />
+        <RACES value="0, 1" />
+        <IDB_ENTRIES value="0x14a, 0x152, 0x153, 0x154, 0x155, 0x156, 0x157, 0x158" />
+        <COSTUME_TYPES value="0, 0, 0, 0, 0, 0, 0, 0" />
+    </X2mCostumeEntry>
+    <X2mCostumeEntry>
+        <GUID value="c41d1a63-615c-a478-ba4a-37746b238b90" />
+        <PARTSETS value="547, 548" />
+        <RACES value="0, 1" />
+    </X2mCostumeEntry>
+    <X2mCostumeEntry>
+        <GUID value="d290411b-be47-45a2-ca7e-c41abe2274ff" />
+        <PARTSETS value="563, 564" />
+        <RACES value="0, 1" />
+        <IDB_ENTRIES value="0x159, 0x15a, 0x15b, 0x15c, 0x15d, 0x15e, 0x15f, 0x160" />
+        <COSTUME_TYPES value="0, 1, 2, 3, 0, 1, 2, 3" />
+    </X2mCostumeEntry>
+</X2mCostumeFile>

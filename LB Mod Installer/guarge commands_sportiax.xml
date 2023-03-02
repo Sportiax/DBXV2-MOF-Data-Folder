@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TrackingXml>
+  <!-- For tracking installed file entries so that they can be updated and uninstalled. -->
+  <Mod Name="Guarge Commands" Author="Sportiax" Version="3.1.0.0">
+    <Files>
+      <File FilePath="chara/FRI/FRI_PLAYER.bac">
+        <Section FileSection="BAC_Entries" IDs="727,728,729,730,731,732" />
+      </File>
+      <File FilePath="skill/MET/003_GOK_GLD/003_GOK_GLD_AFTER.bac">
+        <Section FileSection="BAC_Entries" IDs="727,728,729,730,731,732" />
+      </File>
+      <File FilePath="chara/HUF/HUF_PLAYER.bac">
+        <Section FileSection="BAC_Entries" IDs="727,728,729,730,731,732" />
+      </File>
+      <File FilePath="chara/HUM/HUM_PLAYER.bac">
+        <Section FileSection="BAC_Entries" IDs="727,728,729,730,731,732" />
+      </File>
+      <File FilePath="chara/MAF/MAF_PLAYER.bac">
+        <Section FileSection="BAC_Entries" IDs="727,728,729,730,731,732" />
+      </File>
+      <File FilePath="chara/MAM/MAM_PLAYER.bac">
+        <Section FileSection="BAC_Entries" IDs="727,728,729,730,731,732" />
+      </File>
+      <File FilePath="chara/NMC/NMC_PLAYER.bac">
+        <Section FileSection="BAC_Entries" IDs="727,728,729,730,731,732" />
+      </File>
+      <File FilePath="skill/MET/002_GOK_GNT/002_GOK_GNT_AFTER.bac">
+        <Section FileSection="BAC_Entries" IDs="727,728,729,730,731,732" />
+      </File>
+      <File FilePath="system/custom_skill.cus">
+        <Section FileSection="CUS_AwokenSkills" IDs="25030,25031" />
+      </File>
+      <File FilePath="chara/SYF/SYF_PLAYER.bac">
+        <Section FileSection="BAC_Entries" IDs="727,728,729,730,731,732" />
+      </File>
+      <File FilePath="chara/SYM/SYM_PLAYER.bac">
+        <Section FileSection="BAC_Entries" IDs="727,728,729,730,731,732" />
+      </File>
+    </Files>
+    <MsgComponents />
+    <JungleFiles>
+      <File FilePath="chara/FRI/FRI.cam.ean" />
+      <File FilePath="chara/FRI/FRI.ean" />
+      <File FilePath="chara/FRI/FRI_PLAYER.bcm" />
+      <File FilePath="chara/FRI/FRI_PLAYER.bdm" />
+      <File FilePath="skill/MET/003_GOK_GLD/003_GOK_GLD_AFTER_PLAYER.bcm" />
+      <File FilePath="chara/HUF/HUF.cam.ean" />
+      <File FilePath="chara/HUF/HUF.ean" />
+      <File FilePath="chara/HUF/HUF_PLAYER.bcm" />
+      <File FilePath="chara/HUF/HUF_PLAYER.bdm" />
+      <File FilePath="chara/HUM/HUM.cam.ean" />
+      <File FilePath="chara/HUM/HUM.ean" />
+      <File FilePath="chara/HUM/HUM_PLAYER.bcm" />
+      <File FilePath="chara/HUM/HUM_PLAYER.bdm" />
+      <File FilePath="chara/MAF/MAF.cam.ean" />
+      <File FilePath="chara/MAF/MAF.ean" />
+      <File FilePath="chara/MAF/MAF_PLAYER.bcm" />
+      <File FilePath="chara/MAF/MAF_PLAYER.bdm" />
+      <File FilePath="chara/MAM/MAM.cam.ean" />
+      <File FilePath="chara/MAM/MAM.ean" />
+      <File FilePath="chara/MAM/MAM_PLAYER.bcm" />
+      <File FilePath="chara/MAM/MAM_PLAYER.bdm" />
+      <File FilePath="chara/NMC/NMC.cam.ean" />
+      <File FilePath="chara/NMC/NMC.ean" />
+      <File FilePath="chara/NMC/NMC_PLAYER.bcm" />
+      <File FilePath="chara/NMC/NMC_PLAYER.bdm" />
+      <File FilePath="skill/MET/002_GOK_GNT/002_GOK_GNT_AFTER_PLAYER.bcm" />
+      <File FilePath="chara/SYF/SYF.cam.ean" />
+      <File FilePath="chara/SYF/SYF.ean" />
+      <File FilePath="chara/SYF/SYF_PLAYER.bcm" />
+      <File FilePath="chara/SYF/SYF_PLAYER.bdm" />
+      <File FilePath="chara/SYM/SYM.cam.ean" />
+      <File FilePath="chara/SYM/SYM.ean" />
+      <File FilePath="chara/SYM/SYM_PLAYER.bcm" />
+      <File FilePath="chara/SYM/SYM_PLAYER.bdm" />
+    </JungleFiles>
+    <Aliases />
+  </Mod>
+</TrackingXml>

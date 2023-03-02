@@ -1,0 +1,1016 @@
+<?xml version="1.0" ?>
+<EMD name="ASV_001_Face_eye" unknown_total="0">
+  <EmdModels>
+    <EmdModel name="eye_L" unknown_total="0">
+      <EmdMeshs>
+        <EmdMesh name="eye_L" unknown_total="0">
+          <AABB>
+            <Min x="-0.0602881" y="0.540946" z="-0.085678" w="0" />
+            <Max x="0.0601708" y="0.583815" z="-0.0665148" w="1" />
+            <Center x="-5.86584e-005" y="0.56238" z="-0.0760964" w="0.5" />
+          </AABB>
+          <EmdSubMeshs>
+            <EMDSubmesh name="eye_L">
+              <VertexDefinition>Position|Normal|UV|BoneBlendWeight|CompressedFormat</VertexDefinition>
+              <AABB>
+                <Min x="-0.0602881" y="0.540946" z="-0.085678" w="1" />
+                <Max x="0.0601708" y="0.583815" z="-0.0665148" w="1" />
+                <Center x="-5.86584e-005" y="0.56238" z="-0.0760964" w="1" />
+              </AABB>
+              <Vertices>
+                <vertex>
+                  <position x="0.0483073" y="0.571151" z="-0.07867" />
+                  <normal x="0.366699" y="-0.107422" z="-0.924316" />
+                  <texcoord u="0.729492" v="-0.716797" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="0.0544541" y="0.571332" z="-0.0758232" />
+                  <normal x="0.460205" y="-0.162842" z="-0.872559" />
+                  <texcoord u="0.831543" v="-0.716797" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="0.054007" y="0.56513" z="-0.0747553" />
+                  <normal x="0.496582" y="-0.153198" z="-0.854492" />
+                  <texcoord u="0.837402" v="-0.634766" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="0.0311625" y="0.582884" z="-0.0829431" />
+                  <normal x="0.122437" y="0.0429688" z="-0.991699" />
+                  <texcoord u="0.478516" v="-0.871094" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="0.0401731" y="0.583028" z="-0.0815533" />
+                  <normal x="0.209839" y="-0.000663757" z="-0.977539" />
+                  <texcoord u="0.604004" v="-0.873047" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="0.0401669" y="0.576947" z="-0.0815363" />
+                  <normal x="0.232422" y="-0.0178375" z="-0.972656" />
+                  <texcoord u="0.604004" v="-0.792969" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="0.0484843" y="0.577168" z="-0.0792485" />
+                  <normal x="0.322998" y="-0.0794678" z="-0.942871" />
+                  <texcoord u="0.726563" v="-0.794922" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="0.048504" y="0.583316" z="-0.0796046" />
+                  <normal x="0.304932" y="-0.0567932" z="-0.950684" />
+                  <texcoord u="0.723633" v="-0.875" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="0.0549094" y="0.577441" z="-0.0766039" />
+                  <normal x="0.432861" y="-0.11969" z="-0.893555" />
+                  <texcoord u="0.828613" v="-0.798828" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="0.0595663" y="0.571476" z="-0.0728074" />
+                  <normal x="0.504883" y="-0.176147" z="-0.845215" />
+                  <texcoord u="0.92334" v="-0.716797" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="0.0588311" y="0.565259" z="-0.0716796" />
+                  <normal x="0.529297" y="-0.170166" z="-0.831055" />
+                  <texcoord u="0.927246" v="-0.632813" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="0.058612" y="0.559436" z="-0.0707414" />
+                  <normal x="0.551758" y="-0.232178" z="-0.800781" />
+                  <texcoord u="0.929688" v="-0.554688" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="0.053956" y="0.559262" z="-0.07387" />
+                  <normal x="0.522949" y="-0.20459" z="-0.827637" />
+                  <texcoord u="0.841797" v="-0.556641" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="0.057757" y="0.554011" z="-0.0689305" />
+                  <normal x="0.599609" y="-0.224854" z="-0.768066" />
+                  <texcoord u="0.935059" v="-0.474609" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="0.0478663" y="0.559145" z="-0.0772648" />
+                  <normal x="0.452637" y="-0.115845" z="-0.884277" />
+                  <texcoord u="0.734863" v="-0.560547" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="0.053194" y="0.553093" z="-0.072414" />
+                  <normal x="0.60791" y="-0.146118" z="-0.780273" />
+                  <texcoord u="0.845215" v="-0.480469" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="0.058129" y="0.548021" z="-0.0674592" />
+                  <normal x="0.670898" y="-0.112854" z="-0.73291" />
+                  <texcoord u="0.939453" v="-0.394531" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="0.0538004" y="0.547736" z="-0.0715116" />
+                  <normal x="0.639648" y="-0.112793" z="-0.760742" />
+                  <texcoord u="0.849609" v="-0.400391" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="0.0580029" y="0.542328" z="-0.0665148" />
+                  <normal x="0.665039" y="-0.157349" z="-0.72998" />
+                  <texcoord u="0.942383" v="-0.316406" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="0.0536457" y="0.542083" z="-0.0702523" />
+                  <normal x="0.628906" y="-0.156006" z="-0.761719" />
+                  <texcoord u="0.85498" v="-0.322266" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="0.0600939" y="0.5777" z="-0.0737608" />
+                  <normal x="0.488037" y="-0.130127" z="-0.863281" />
+                  <texcoord u="0.918457" v="-0.798828" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="0.0550569" y="0.583604" z="-0.0772693" />
+                  <normal x="0.425781" y="-0.0917358" z="-0.900391" />
+                  <texcoord u="0.82373" v="-0.878906" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="0.0601708" y="0.583815" z="-0.0744467" />
+                  <normal x="0.482178" y="-0.10553" z="-0.869629" />
+                  <texcoord u="0.913086" v="-0.878906" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="0.0309237" y="0.559361" z="-0.0835629" />
+                  <normal x="0.213501" y="-0.0324707" z="-0.976563" />
+                  <texcoord u="0.4729" v="-0.564453" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="0.0400023" y="0.559166" z="-0.0806258" />
+                  <normal x="0.347168" y="-0.0645752" z="-0.935547" />
+                  <texcoord u="0.608887" v="-0.5625" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="0.0399325" y="0.553141" z="-0.0802994" />
+                  <normal x="0.3396" y="-0.153687" z="-0.927734" />
+                  <texcoord u="0.609863" v="-0.484375" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="0.0310972" y="0.565018" z="-0.083639" />
+                  <normal x="0.194458" y="-0.0060463" z="-0.980957" />
+                  <texcoord u="0.474365" v="-0.638672" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="0.0400595" y="0.564968" z="-0.0809674" />
+                  <normal x="0.317139" y="-0.0566406" z="-0.946777" />
+                  <texcoord u="0.607422" v="-0.638672" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="0.0477707" y="0.553201" z="-0.0766236" />
+                  <normal x="0.515625" y="-0.0904541" z="-0.852051" />
+                  <texcoord u="0.737793" v="-0.482422" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="0.0306715" y="0.553467" z="-0.0832981" />
+                  <normal x="0.233643" y="-0.107544" z="-0.966309" />
+                  <texcoord u="0.47168" v="-0.488281" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="0.0211985" y="0.559421" z="-0.0848042" />
+                  <normal x="0.0931396" y="0.000349045" z="-0.995605" />
+                  <texcoord u="0.337158" v="-0.566406" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="0.0212853" y="0.565054" z="-0.0846424" />
+                  <normal x="0.0755005" y="0.0329895" z="-0.996582" />
+                  <texcoord u="0.338623" v="-0.640625" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="0.0389899" y="0.547497" z="-0.0789123" />
+                  <normal x="0.327637" y="-0.14978" z="-0.933105" />
+                  <texcoord u="0.609863" v="-0.408203" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="0.0473807" y="0.546527" z="-0.0760003" />
+                  <normal x="0.481934" y="-0.0985718" z="-0.870605" />
+                  <texcoord u="0.740234" v="-0.404297" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="0.0213515" y="0.571064" z="-0.0844053" />
+                  <normal x="0.0613403" y="0.0516052" z="-0.996582" />
+                  <texcoord u="0.34082" v="-0.71875" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="0.0311554" y="0.571036" z="-0.0835235" />
+                  <normal x="0.165527" y="0.0108109" z="-0.986328" />
+                  <texcoord u="0.47583" v="-0.716797" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="0.0213989" y="0.5767" z="-0.0840816" />
+                  <normal x="0.0505371" y="0.0645142" z="-0.996582" />
+                  <texcoord u="0.343262" v="-0.792969" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="0.0311643" y="0.576792" z="-0.0832696" />
+                  <normal x="0.136475" y="0.0303802" z="-0.990234" />
+                  <texcoord u="0.477051" v="-0.791016" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="0.0401114" y="0.571026" z="-0.0812492" />
+                  <normal x="0.275879" y="-0.0419617" z="-0.960449" />
+                  <texcoord u="0.605957" v="-0.716797" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="0.0110709" y="0.582706" z="-0.0837999" />
+                  <normal x="0.0161133" y="0.0744629" z="-0.99707" />
+                  <texcoord u="0.205444" v="-0.875" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="0.02144" y="0.582773" z="-0.0836308" />
+                  <normal x="0.0453491" y="0.067627" z="-0.996582" />
+                  <texcoord u="0.345947" v="-0.873047" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="0.0110557" y="0.576589" z="-0.0842587" />
+                  <normal x="0.0198975" y="0.0725708" z="-0.99707" />
+                  <texcoord u="0.202881" v="-0.794922" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="0.048064" y="0.564974" z="-0.0779249" />
+                  <normal x="0.409424" y="-0.109253" z="-0.905762" />
+                  <texcoord u="0.733398" v="-0.636719" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="0.0478699" y="0.541179" z="-0.0755782" />
+                  <normal x="0.51709" y="-0.0188599" z="-0.855469" />
+                  <texcoord u="0.744141" v="-0.326172" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="0.0301635" y="0.547484" z="-0.0825147" />
+                  <normal x="0.259033" y="-0.139893" z="-0.955566" />
+                  <texcoord u="0.47168" v="-0.408203" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="0.0390695" y="0.54143" z="-0.0787236" />
+                  <normal x="0.33252" y="-0.0626221" z="-0.940918" />
+                  <texcoord u="0.610352" v="-0.326172" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="0.0296207" y="0.54167" z="-0.0815407" />
+                  <normal x="0.22998" y="-0.179199" z="-0.956543" />
+                  <texcoord u="0.471436" v="-0.328125" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="0.021059" y="0.547596" z="-0.0842462" />
+                  <normal x="0.164429" y="-0.101501" z="-0.980957" />
+                  <texcoord u="0.336914" v="-0.410156" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="0.021093" y="0.55363" z="-0.0846808" />
+                  <normal x="0.118958" y="-0.0473022" z="-0.991699" />
+                  <texcoord u="0.33667" v="-0.490234" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="0.0202979" y="0.541633" z="-0.083249" />
+                  <normal x="0.215454" y="-0.200439" z="-0.955566" />
+                  <texcoord u="0.337891" v="-0.326172" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="0.0109815" y="0.540946" z="-0.0856771" />
+                  <normal x="0.186157" y="-0.0712891" z="-0.97998" />
+                  <texcoord u="0.195679" v="-0.324219" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="0.0109636" y="0.547628" z="-0.0856315" />
+                  <normal x="0.128052" y="-0.0058403" z="-0.991699" />
+                  <texcoord u="0.195679" v="-0.412109" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="0.0109698" y="0.553711" z="-0.0855716" />
+                  <normal x="0.0969849" y="-0.0111237" z="-0.995117" />
+                  <texcoord u="0.196167" v="-0.492188" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="0.0109922" y="0.559513" z="-0.0854554" />
+                  <normal x="0.0656128" y="0.0228119" z="-0.997559" />
+                  <texcoord u="0.197021" v="-0.568359" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="0.0110163" y="0.565058" z="-0.0850995" />
+                  <normal x="0.0449829" y="0.0477295" z="-0.998047" />
+                  <texcoord u="0.198608" v="-0.642578" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="0.0110387" y="0.571119" z="-0.0847005" />
+                  <normal x="0.0289001" y="0.0588684" z="-0.998047" />
+                  <texcoord u="0.200806" v="-0.722656" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+              </Vertices>
+              <TriangleList>
+                <EMDTriangles>
+                  <Bones>
+                    <Bone name="f_R_Eye" />
+                  </Bones>
+                  <Faces>
+                    <face v1="0" v2="1" v3="2" />
+                    <face v1="3" v2="4" v3="5" />
+                    <face v1="4" v2="6" v3="5" />
+                    <face v1="4" v2="7" v3="6" />
+                    <face v1="7" v2="8" v3="6" />
+                    <face v1="6" v2="8" v3="1" />
+                    <face v1="8" v2="9" v3="1" />
+                    <face v1="1" v2="9" v3="10" />
+                    <face v1="1" v2="10" v3="2" />
+                    <face v1="2" v2="10" v3="11" />
+                    <face v1="2" v2="11" v3="12" />
+                    <face v1="12" v2="11" v3="13" />
+                    <face v1="14" v2="12" v3="15" />
+                    <face v1="12" v2="13" v3="15" />
+                    <face v1="15" v2="13" v3="16" />
+                    <face v1="15" v2="16" v3="17" />
+                    <face v1="17" v2="16" v3="18" />
+                    <face v1="17" v2="18" v3="19" />
+                    <face v1="8" v2="20" v3="9" />
+                    <face v1="7" v2="21" v3="8" />
+                    <face v1="21" v2="20" v3="8" />
+                    <face v1="21" v2="22" v3="20" />
+                    <face v1="23" v2="24" v3="25" />
+                    <face v1="26" v2="27" v3="24" />
+                    <face v1="26" v2="24" v3="23" />
+                    <face v1="27" v2="14" v3="24" />
+                    <face v1="24" v2="14" v3="28" />
+                    <face v1="24" v2="28" v3="25" />
+                    <face v1="23" v2="25" v3="29" />
+                    <face v1="30" v2="23" v3="29" />
+                    <face v1="31" v2="26" v3="23" />
+                    <face v1="31" v2="23" v3="30" />
+                    <face v1="29" v2="25" v3="32" />
+                    <face v1="25" v2="28" v3="33" />
+                    <face v1="34" v2="35" v3="26" />
+                    <face v1="35" v2="27" v3="26" />
+                    <face v1="36" v2="37" v3="35" />
+                    <face v1="37" v2="38" v3="35" />
+                    <face v1="35" v2="38" v3="27" />
+                    <face v1="39" v2="40" v3="36" />
+                    <face v1="39" v2="36" v3="41" />
+                    <face v1="40" v2="37" v3="36" />
+                    <face v1="40" v2="3" v3="37" />
+                    <face v1="3" v2="5" v3="37" />
+                    <face v1="37" v2="5" v3="38" />
+                    <face v1="5" v2="0" v3="38" />
+                    <face v1="38" v2="0" v3="42" />
+                    <face v1="38" v2="42" v3="27" />
+                    <face v1="27" v2="42" v3="14" />
+                    <face v1="0" v2="2" v3="42" />
+                    <face v1="42" v2="2" v3="12" />
+                    <face v1="42" v2="12" v3="14" />
+                    <face v1="5" v2="6" v3="0" />
+                    <face v1="6" v2="1" v3="0" />
+                    <face v1="25" v2="33" v3="32" />
+                    <face v1="14" v2="15" v3="28" />
+                    <face v1="28" v2="15" v3="17" />
+                    <face v1="28" v2="17" v3="33" />
+                    <face v1="32" v2="33" v3="43" />
+                    <face v1="33" v2="17" v3="19" />
+                    <face v1="33" v2="19" v3="43" />
+                    <face v1="44" v2="32" v3="45" />
+                    <face v1="29" v2="32" v3="44" />
+                    <face v1="32" v2="43" v3="45" />
+                    <face v1="44" v2="45" v3="46" />
+                    <face v1="47" v2="44" v3="46" />
+                    <face v1="48" v2="29" v3="44" />
+                    <face v1="48" v2="44" v3="47" />
+                    <face v1="47" v2="46" v3="49" />
+                    <face v1="49" v2="50" v3="47" />
+                    <face v1="51" v2="47" v3="50" />
+                    <face v1="52" v2="48" v3="47" />
+                    <face v1="52" v2="47" v3="51" />
+                    <face v1="30" v2="29" v3="48" />
+                    <face v1="53" v2="30" v3="48" />
+                    <face v1="53" v2="48" v3="52" />
+                    <face v1="54" v2="31" v3="30" />
+                    <face v1="54" v2="30" v3="53" />
+                    <face v1="55" v2="31" v3="54" />
+                    <face v1="34" v2="26" v3="31" />
+                    <face v1="55" v2="34" v3="31" />
+                    <face v1="41" v2="34" v3="55" />
+                    <face v1="41" v2="36" v3="34" />
+                    <face v1="36" v2="35" v3="34" />
+                  </Faces>
+                </EMDTriangles>
+              </TriangleList>
+              <TextureDefinitions>
+                <EMDSubmeshDefinition unknow0="0" textureindex="1" unknow1="0" unknow2="34" textScale_u="1" textScale_v="1" />
+                <EMDSubmeshDefinition unknow0="0" textureindex="1" unknow1="0" unknow2="34" textScale_u="1" textScale_v="1" />
+              </TextureDefinitions>
+            </EMDSubmesh>
+            <EMDSubmesh name="eye_R">
+              <VertexDefinition>Position|Normal|UV|BoneBlendWeight|CompressedFormat</VertexDefinition>
+              <AABB>
+                <Min x="-0.0602881" y="0.540946" z="-0.085678" w="1" />
+                <Max x="0.0601708" y="0.583815" z="-0.0665148" w="1" />
+                <Center x="-5.86584e-005" y="0.56238" z="-0.0760964" w="1" />
+              </AABB>
+              <Vertices>
+                <vertex>
+                  <position x="-0.0481893" y="0.564973" z="-0.0779284" />
+                  <normal x="-0.40918" y="-0.109375" z="-0.905762" />
+                  <texcoord u="0.266602" v="-0.636719" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="-0.0540831" y="0.55926" z="-0.0738743" />
+                  <normal x="-0.525879" y="-0.202148" z="-0.826172" />
+                  <texcoord u="0.157959" v="-0.556641" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="-0.0541358" y="0.565127" z="-0.0747597" />
+                  <normal x="-0.498291" y="-0.153198" z="-0.853516" />
+                  <texcoord u="0.162354" v="-0.634766" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="-0.0486043" y="0.577167" z="-0.0792494" />
+                  <normal x="-0.322998" y="-0.0791016" z="-0.942871" />
+                  <texcoord u="0.273193" v="-0.794922" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="-0.0484299" y="0.571149" z="-0.0786716" />
+                  <normal x="-0.366455" y="-0.107056" z="-0.924316" />
+                  <texcoord u="0.27002" v="-0.716797" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="-0.0545768" y="0.57133" z="-0.0758249" />
+                  <normal x="-0.461182" y="-0.162354" z="-0.872559" />
+                  <texcoord u="0.168213" v="-0.716797" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="-0.040285" y="0.576947" z="-0.0815371" />
+                  <normal x="-0.232544" y="-0.0178528" z="-0.972656" />
+                  <texcoord u="0.395508" v="-0.792969" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="-0.0402913" y="0.583027" z="-0.0815532" />
+                  <normal x="-0.209839" y="-0.000651836" z="-0.977539" />
+                  <texcoord u="0.395996" v="-0.873047" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="-0.0312798" y="0.582884" z="-0.082944" />
+                  <normal x="-0.12262" y="0.0428162" z="-0.991699" />
+                  <texcoord u="0.521484" v="-0.871094" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="-0.0486222" y="0.583315" z="-0.0796053" />
+                  <normal x="-0.366211" y="0.0214996" z="-0.930176" />
+                  <texcoord u="0.276123" v="-0.875" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="-0.0550275" y="0.57744" z="-0.0766039" />
+                  <normal x="-0.556152" y="0.0344238" z="-0.830566" />
+                  <texcoord u="0.171265" v="-0.798828" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="-0.059679" y="0.571477" z="-0.0728056" />
+                  <normal x="-0.58252" y="-0.0939331" z="-0.807129" />
+                  <texcoord u="0.0765991" v="-0.716797" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="-0.0589421" y="0.565261" z="-0.0716769" />
+                  <normal x="-0.531738" y="-0.169434" z="-0.830078" />
+                  <texcoord u="0.0728149" v="-0.632813" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="-0.0587265" y="0.559437" z="-0.0707432" />
+                  <normal x="-0.553223" y="-0.237061" z="-0.798828" />
+                  <texcoord u="0.0700684" v="-0.554688" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="-0.0578152" y="0.55403" z="-0.0688946" />
+                  <normal x="-0.615234" y="-0.216064" z="-0.757813" />
+                  <texcoord u="0.0648804" v="-0.474609" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="-0.047989" y="0.559142" z="-0.0772666" />
+                  <normal x="-0.451416" y="-0.116272" z="-0.884766" />
+                  <texcoord u="0.264893" v="-0.560547" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="-0.0533712" y="0.55312" z="-0.0724765" />
+                  <normal x="-0.610352" y="-0.145874" z="-0.77832" />
+                  <texcoord u="0.154785" v="-0.480469" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="-0.0582463" y="0.548021" z="-0.0674636" />
+                  <normal x="-0.676758" y="-0.111267" z="-0.727539" />
+                  <texcoord u="0.0605164" v="-0.394531" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="-0.053931" y="0.547722" z="-0.0715275" />
+                  <normal x="-0.634277" y="-0.120605" z="-0.763672" />
+                  <texcoord u="0.150146" v="-0.400391" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="-0.0581193" y="0.542328" z="-0.0665156" />
+                  <normal x="-0.66748" y="-0.157837" z="-0.728027" />
+                  <texcoord u="0.0577698" v="-0.316406" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="-0.0537736" y="0.542075" z="-0.0702611" />
+                  <normal x="-0.625488" y="-0.15332" z="-0.765137" />
+                  <texcoord u="0.145142" v="-0.322266" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="-0.0602103" y="0.5777" z="-0.0713131" />
+                  <normal x="-0.659668" y="0.0819092" z="-0.74707" />
+                  <texcoord u="0.0812378" v="-0.798828" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="-0.0551751" y="0.583604" z="-0.0748217" />
+                  <normal x="-0.606445" y="0.140137" z="-0.782715" />
+                  <texcoord u="0.176025" v="-0.878906" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="-0.0602881" y="0.583815" z="-0.0719991" />
+                  <normal x="-0.482178" y="-0.105652" z="-0.869629" />
+                  <texcoord u="0.086853" v="-0.878906" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="-0.0310419" y="0.559361" z="-0.0835628" />
+                  <normal x="-0.213501" y="-0.0326233" z="-0.976563" />
+                  <texcoord u="0.526855" v="-0.564453" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="-0.0400516" y="0.553142" z="-0.0802985" />
+                  <normal x="-0.342529" y="-0.153564" z="-0.926758" />
+                  <texcoord u="0.389893" v="-0.484375" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="-0.0401222" y="0.559166" z="-0.0806258" />
+                  <normal x="-0.347412" y="-0.0648804" z="-0.935547" />
+                  <texcoord u="0.390869" v="-0.5625" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="-0.0312163" y="0.565018" z="-0.0836389" />
+                  <normal x="-0.194336" y="-0.00588989" z="-0.980957" />
+                  <texcoord u="0.525391" v="-0.638672" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="-0.0401795" y="0.564967" z="-0.0809683" />
+                  <normal x="-0.316895" y="-0.0567322" z="-0.946777" />
+                  <texcoord u="0.392334" v="-0.638672" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="-0.0478843" y="0.553203" z="-0.0766128" />
+                  <normal x="-0.509277" y="-0.0994263" z="-0.85498" />
+                  <texcoord u="0.262207" v="-0.482422" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="-0.0307897" y="0.553467" z="-0.0832964" />
+                  <normal x="-0.233521" y="-0.104614" z="-0.966797" />
+                  <texcoord u="0.52832" v="-0.488281" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="-0.0213158" y="0.55942" z="-0.084806" />
+                  <normal x="-0.0931396" y="0.000492096" z="-0.995605" />
+                  <texcoord u="0.662598" v="-0.566406" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="-0.0214016" y="0.565054" z="-0.0846423" />
+                  <normal x="-0.0753784" y="0.0328064" z="-0.996582" />
+                  <texcoord u="0.661133" v="-0.640625" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="-0.039134" y="0.547498" z="-0.0789391" />
+                  <normal x="-0.332031" y="-0.1521" z="-0.931152" />
+                  <texcoord u="0.389893" v="-0.408203" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="-0.0474282" y="0.546544" z="-0.0759009" />
+                  <normal x="-0.483154" y="-0.0936279" z="-0.870605" />
+                  <texcoord u="0.259766" v="-0.404297" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="-0.0214696" y="0.571064" z="-0.0844053" />
+                  <normal x="-0.0613098" y="0.0514832" z="-0.996582" />
+                  <texcoord u="0.65918" v="-0.71875" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="-0.0312735" y="0.571035" z="-0.0835235" />
+                  <normal x="-0.165527" y="0.0107574" z="-0.986328" />
+                  <texcoord u="0.523926" v="-0.716797" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="-0.0215179" y="0.5767" z="-0.0840816" />
+                  <normal x="-0.0504761" y="0.064209" z="-0.996582" />
+                  <texcoord u="0.656738" v="-0.792969" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="-0.0312833" y="0.576792" z="-0.0832686" />
+                  <normal x="-0.136475" y="0.030365" z="-0.990234" />
+                  <texcoord u="0.522949" v="-0.791016" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="-0.0402304" y="0.571026" z="-0.0812492" />
+                  <normal x="-0.275879" y="-0.0419922" z="-0.960449" />
+                  <texcoord u="0.394043" v="-0.716797" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="-0.011189" y="0.582706" z="-0.0837999" />
+                  <normal x="-0.016098" y="0.0744629" z="-0.99707" />
+                  <texcoord u="0.794434" v="-0.875" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="-0.0111729" y="0.576589" z="-0.0842587" />
+                  <normal x="-0.0198669" y="0.0723877" z="-0.99707" />
+                  <texcoord u="0.796875" v="-0.794922" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="-0.0215582" y="0.582773" z="-0.0836308" />
+                  <normal x="-0.0454407" y="0.0678101" z="-0.996582" />
+                  <texcoord u="0.653809" v="-0.873047" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="-0.0479916" y="0.541178" z="-0.0755754" />
+                  <normal x="-0.519531" y="-0.0029583" z="-0.854492" />
+                  <texcoord u="0.255859" v="-0.326172" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="-0.0303085" y="0.54748" z="-0.0825451" />
+                  <normal x="-0.259277" y="-0.14209" z="-0.955078" />
+                  <texcoord u="0.52832" v="-0.408203" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="-0.0391456" y="0.541445" z="-0.0786663" />
+                  <normal x="-0.32959" y="-0.0783691" z="-0.940918" />
+                  <texcoord u="0.389404" v="-0.326172" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="-0.0297325" y="0.541674" z="-0.0815318" />
+                  <normal x="-0.233398" y="-0.182617" z="-0.955078" />
+                  <texcoord u="0.52832" v="-0.328125" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="-0.0211772" y="0.547596" z="-0.0842488" />
+                  <normal x="-0.163574" y="-0.0964355" z="-0.981934" />
+                  <texcoord u="0.663086" v="-0.410156" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="-0.0212103" y="0.55363" z="-0.0846827" />
+                  <normal x="-0.118591" y="-0.0467529" z="-0.991699" />
+                  <texcoord u="0.663086" v="-0.490234" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="-0.0204858" y="0.541597" z="-0.0833393" />
+                  <normal x="-0.214844" y="-0.183105" z="-0.959473" />
+                  <texcoord u="0.662109" v="-0.326172" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="-0.0110996" y="0.540946" z="-0.085678" />
+                  <normal x="-0.182007" y="-0.0651855" z="-0.980957" />
+                  <texcoord u="0.804199" v="-0.324219" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="-0.0110799" y="0.547628" z="-0.0856325" />
+                  <normal x="-0.12793" y="-0.00576782" z="-0.991699" />
+                  <texcoord u="0.804199" v="-0.412109" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="-0.0110871" y="0.553711" z="-0.0855725" />
+                  <normal x="-0.0969238" y="-0.0110168" z="-0.995117" />
+                  <texcoord u="0.803711" v="-0.492188" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="-0.0111103" y="0.559513" z="-0.0854554" />
+                  <normal x="-0.0656128" y="0.0228424" z="-0.997559" />
+                  <texcoord u="0.802734" v="-0.568359" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="-0.0111345" y="0.565058" z="-0.0850994" />
+                  <normal x="-0.0450134" y="0.0478516" z="-0.998047" />
+                  <texcoord u="0.80127" v="-0.642578" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+                <vertex>
+                  <position x="-0.011156" y="0.571119" z="-0.0847005" />
+                  <normal x="-0.0289001" y="0.0588684" z="-0.998047" />
+                  <texcoord u="0.799316" v="-0.722656" />
+                  <blendIndice i0="0" i1="0" i2="0" i3="0" />
+                  <blendWeight w0="0" w1="0" w2="0" w3="1" />
+                </vertex>
+              </Vertices>
+              <TriangleList>
+                <EMDTriangles>
+                  <Bones>
+                    <Bone name="f_R_Eye" />
+                  </Bones>
+                  <Faces>
+                    <face v1="0" v2="1" v3="2" />
+                    <face v1="3" v2="4" v3="5" />
+                    <face v1="6" v2="4" v3="3" />
+                    <face v1="4" v2="2" v3="5" />
+                    <face v1="7" v2="6" v3="3" />
+                    <face v1="8" v2="6" v3="7" />
+                    <face v1="9" v2="3" v3="10" />
+                    <face v1="3" v2="5" v3="10" />
+                    <face v1="7" v2="3" v3="9" />
+                    <face v1="10" v2="5" v3="11" />
+                    <face v1="5" v2="2" v3="12" />
+                    <face v1="5" v2="12" v3="11" />
+                    <face v1="2" v2="1" v3="13" />
+                    <face v1="2" v2="13" v3="12" />
+                    <face v1="1" v2="14" v3="13" />
+                    <face v1="15" v2="16" v3="1" />
+                    <face v1="1" v2="16" v3="14" />
+                    <face v1="16" v2="17" v3="14" />
+                    <face v1="16" v2="18" v3="17" />
+                    <face v1="18" v2="19" v3="17" />
+                    <face v1="18" v2="20" v3="19" />
+                    <face v1="10" v2="11" v3="21" />
+                    <face v1="22" v2="10" v3="21" />
+                    <face v1="9" v2="10" v3="22" />
+                    <face v1="22" v2="21" v3="23" />
+                    <face v1="24" v2="25" v3="26" />
+                    <face v1="27" v2="24" v3="26" />
+                    <face v1="27" v2="26" v3="28" />
+                    <face v1="28" v2="26" v3="15" />
+                    <face v1="26" v2="25" v3="29" />
+                    <face v1="26" v2="29" v3="15" />
+                    <face v1="24" v2="30" v3="25" />
+                    <face v1="31" v2="30" v3="24" />
+                    <face v1="32" v2="31" v3="24" />
+                    <face v1="32" v2="24" v3="27" />
+                    <face v1="30" v2="33" v3="25" />
+                    <face v1="25" v2="33" v3="34" />
+                    <face v1="35" v2="27" v3="36" />
+                    <face v1="36" v2="27" v3="28" />
+                    <face v1="37" v2="36" v3="38" />
+                    <face v1="38" v2="36" v3="39" />
+                    <face v1="36" v2="28" v3="39" />
+                    <face v1="40" v2="41" v3="37" />
+                    <face v1="40" v2="37" v3="42" />
+                    <face v1="42" v2="37" v3="38" />
+                    <face v1="42" v2="38" v3="8" />
+                    <face v1="8" v2="38" v3="6" />
+                    <face v1="38" v2="39" v3="6" />
+                    <face v1="6" v2="39" v3="4" />
+                    <face v1="39" v2="28" v3="0" />
+                    <face v1="39" v2="0" v3="4" />
+                    <face v1="28" v2="15" v3="0" />
+                    <face v1="4" v2="0" v3="2" />
+                    <face v1="0" v2="15" v3="1" />
+                    <face v1="25" v2="34" v3="29" />
+                    <face v1="15" v2="29" v3="16" />
+                    <face v1="29" v2="34" v3="18" />
+                    <face v1="29" v2="18" v3="16" />
+                    <face v1="33" v2="43" v3="34" />
+                    <face v1="34" v2="43" v3="20" />
+                    <face v1="34" v2="20" v3="18" />
+                    <face v1="44" v2="45" v3="33" />
+                    <face v1="30" v2="44" v3="33" />
+                    <face v1="33" v2="45" v3="43" />
+                    <face v1="44" v2="46" v3="45" />
+                    <face v1="47" v2="46" v3="44" />
+                    <face v1="48" v2="47" v3="44" />
+                    <face v1="48" v2="44" v3="30" />
+                    <face v1="47" v2="49" v3="46" />
+                    <face v1="50" v2="49" v3="47" />
+                    <face v1="47" v2="51" v3="50" />
+                    <face v1="52" v2="51" v3="47" />
+                    <face v1="52" v2="47" v3="48" />
+                    <face v1="31" v2="48" v3="30" />
+                    <face v1="53" v2="52" v3="48" />
+                    <face v1="53" v2="48" v3="31" />
+                    <face v1="54" v2="53" v3="31" />
+                    <face v1="54" v2="31" v3="32" />
+                    <face v1="55" v2="54" v3="32" />
+                    <face v1="35" v2="32" v3="27" />
+                    <face v1="55" v2="32" v3="35" />
+                    <face v1="41" v2="55" v3="35" />
+                    <face v1="41" v2="35" v3="37" />
+                    <face v1="37" v2="35" v3="36" />
+                  </Faces>
+                </EMDTriangles>
+              </TriangleList>
+              <TextureDefinitions>
+                <EMDSubmeshDefinition unknow0="0" textureindex="0" unknow1="0" unknow2="34" textScale_u="1" textScale_v="1" />
+                <EMDSubmeshDefinition unknow0="0" textureindex="0" unknow1="0" unknow2="34" textScale_u="1" textScale_v="1" />
+              </TextureDefinitions>
+            </EMDSubmesh>
+          </EmdSubMeshs>
+        </EmdMesh>
+      </EmdMeshs>
+    </EmdModel>
+  </EmdModels>
+</EMD>

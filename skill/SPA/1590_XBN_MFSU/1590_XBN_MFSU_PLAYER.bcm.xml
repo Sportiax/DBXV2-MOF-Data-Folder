@@ -1,0 +1,351 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BCM>
+  <BcmEntry ID="0">
+    <Parameters>
+      <I_00 value="0x0" />
+      <DirectionalInput value="0x0" />
+      <ButtonInput value="0x0" />
+      <HoldDownConditions value="0x0" />
+      <OpponentSizeConditions value="0x0000000" />
+      <HoldDownDelayTime value="0" />
+      <MaximumLoopDuration value="0" />
+      <PrimaryActivatorConditions value="0x0" />
+      <ActivatorState value="0x0" />
+      <BacEntryPrimary value="-1" />
+      <BacEntryAirborne value="-1" />
+      <BacEntryCharge value="0" />
+      <I_36 value="0" />
+      <BacEntryUserConnect value="0" />
+      <BacEntryVictimConnect value="0" />
+      <BacEntryUnknown value="65535" />
+      <RandomFlag value="0" />
+      <KiCost value="0" />
+      <I_68 value="0" />
+      <I_72 value="0" />
+      <ReceiverLinkId value="0x0" />
+      <I_80 value="0" />
+      <StaminaCost value="0" />
+      <I_88 value="0" />
+      <KiRequired value="0" />
+      <HealthRequired value="0.0" />
+      <TransStage value="0" />
+      <CUS_AURA value="-1" />
+      <I_104 value="2147483648" />
+      <I_108 value="0" />
+    </Parameters>
+    <ChildBcmEntries>
+      <BcmEntry ID="1">
+        <Parameters>
+          <I_00 value="0x0" />
+          <DirectionalInput value="0x0" />
+          <ButtonInput value="0x400" />
+          <HoldDownConditions value="0x0" />
+          <OpponentSizeConditions value="0x0000000" />
+          <HoldDownDelayTime value="0" />
+          <MaximumLoopDuration value="0" />
+          <PrimaryActivatorConditions value="0x100c00" />
+          <ActivatorState value="0x3" />
+          <BacEntryPrimary value="5" />
+          <BacEntryAirborne value="-1" />
+          <BacEntryCharge value="0" />
+          <I_36 value="0" />
+          <BacEntryUserConnect value="0" />
+          <BacEntryVictimConnect value="0" />
+          <BacEntryUnknown value="65535" />
+          <RandomFlag value="0" />
+          <KiCost value="100" />
+          <I_68 value="0" />
+          <I_72 value="0" />
+          <ReceiverLinkId value="0x2" />
+          <I_80 value="0" />
+          <StaminaCost value="0" />
+          <I_88 value="0" />
+          <KiRequired value="0" />
+          <HealthRequired value="0.0" />
+          <TransStage value="0" />
+          <CUS_AURA value="-1" />
+          <I_104 value="2147483649" />
+          <I_108 value="0" />
+        </Parameters>
+      </BcmEntry>
+      <BcmEntry ID="2">
+        <Parameters>
+          <I_00 value="0x0" />
+          <DirectionalInput value="0x0" />
+          <ButtonInput value="0x400" />
+          <HoldDownConditions value="0x0" />
+          <OpponentSizeConditions value="0x1000000" />
+          <HoldDownDelayTime value="0" />
+          <MaximumLoopDuration value="0" />
+          <PrimaryActivatorConditions value="0x100c00" />
+          <ActivatorState value="0x3" />
+          <BacEntryPrimary value="5" />
+          <BacEntryAirborne value="-1" />
+          <BacEntryCharge value="0" />
+          <I_36 value="0" />
+          <BacEntryUserConnect value="6" />
+          <BacEntryVictimConnect value="6" />
+          <BacEntryUnknown value="65535" />
+          <RandomFlag value="0" />
+          <KiCost value="100" />
+          <I_68 value="0" />
+          <I_72 value="0" />
+          <ReceiverLinkId value="0x2" />
+          <I_80 value="0" />
+          <StaminaCost value="0" />
+          <I_88 value="0" />
+          <KiRequired value="0" />
+          <HealthRequired value="0.0" />
+          <TransStage value="0" />
+          <CUS_AURA value="-1" />
+          <I_104 value="2147483649" />
+          <I_108 value="0" />
+        </Parameters>
+      </BcmEntry>
+      <BcmEntry ID="3">
+        <Parameters>
+          <I_00 value="0x0" />
+          <DirectionalInput value="0x0" />
+          <ButtonInput value="0x400" />
+          <HoldDownConditions value="0x0" />
+          <OpponentSizeConditions value="0x2000000" />
+          <HoldDownDelayTime value="0" />
+          <MaximumLoopDuration value="0" />
+          <PrimaryActivatorConditions value="0x100c00" />
+          <ActivatorState value="0x3" />
+          <BacEntryPrimary value="5" />
+          <BacEntryAirborne value="-1" />
+          <BacEntryCharge value="0" />
+          <I_36 value="0" />
+          <BacEntryUserConnect value="7" />
+          <BacEntryVictimConnect value="7" />
+          <BacEntryUnknown value="65535" />
+          <RandomFlag value="0" />
+          <KiCost value="100" />
+          <I_68 value="0" />
+          <I_72 value="0" />
+          <ReceiverLinkId value="0x2" />
+          <I_80 value="0" />
+          <StaminaCost value="0" />
+          <I_88 value="0" />
+          <KiRequired value="0" />
+          <HealthRequired value="0.0" />
+          <TransStage value="0" />
+          <CUS_AURA value="-1" />
+          <I_104 value="2147483649" />
+          <I_108 value="0" />
+        </Parameters>
+      </BcmEntry>
+      <BcmEntry ID="4">
+        <Parameters>
+          <I_00 value="0x0" />
+          <DirectionalInput value="0x0" />
+          <ButtonInput value="0x400" />
+          <HoldDownConditions value="0x0" />
+          <OpponentSizeConditions value="0x0000000" />
+          <HoldDownDelayTime value="0" />
+          <MaximumLoopDuration value="0" />
+          <PrimaryActivatorConditions value="0xc00" />
+          <ActivatorState value="0x3" />
+          <BacEntryPrimary value="0" />
+          <BacEntryAirborne value="-1" />
+          <BacEntryCharge value="0" />
+          <I_36 value="0" />
+          <BacEntryUserConnect value="0" />
+          <BacEntryVictimConnect value="0" />
+          <BacEntryUnknown value="65535" />
+          <RandomFlag value="0" />
+          <KiCost value="100" />
+          <I_68 value="0" />
+          <I_72 value="0" />
+          <ReceiverLinkId value="0x2" />
+          <I_80 value="0" />
+          <StaminaCost value="0" />
+          <I_88 value="0" />
+          <KiRequired value="0" />
+          <HealthRequired value="0.0" />
+          <TransStage value="0" />
+          <CUS_AURA value="-1" />
+          <I_104 value="2147483649" />
+          <I_108 value="0" />
+        </Parameters>
+        <ChildBcmEntries>
+          <BcmEntry ID="5">
+            <Parameters>
+              <I_00 value="0x0" />
+              <DirectionalInput value="0x0" />
+              <ButtonInput value="0x0" />
+              <HoldDownConditions value="0x0" />
+              <OpponentSizeConditions value="0x0000000" />
+              <HoldDownDelayTime value="0" />
+              <MaximumLoopDuration value="0" />
+              <PrimaryActivatorConditions value="0xc20" />
+              <ActivatorState value="0x2" />
+              <BacEntryPrimary value="1" />
+              <BacEntryAirborne value="-1" />
+              <BacEntryCharge value="0" />
+              <I_36 value="0" />
+              <BacEntryUserConnect value="0" />
+              <BacEntryVictimConnect value="0" />
+              <BacEntryUnknown value="65535" />
+              <RandomFlag value="0" />
+              <KiCost value="0" />
+              <I_68 value="0" />
+              <I_72 value="0" />
+              <ReceiverLinkId value="0x2" />
+              <I_80 value="0" />
+              <StaminaCost value="0" />
+              <I_88 value="0" />
+              <KiRequired value="0" />
+              <HealthRequired value="0.0" />
+              <TransStage value="0" />
+              <CUS_AURA value="-1" />
+              <I_104 value="2147483649" />
+              <I_108 value="0" />
+            </Parameters>
+          </BcmEntry>
+        </ChildBcmEntries>
+      </BcmEntry>
+      <BcmEntry ID="6">
+        <Parameters>
+          <I_00 value="0x0" />
+          <DirectionalInput value="0x0" />
+          <ButtonInput value="0x400" />
+          <HoldDownConditions value="0x0" />
+          <OpponentSizeConditions value="0x1000000" />
+          <HoldDownDelayTime value="0" />
+          <MaximumLoopDuration value="0" />
+          <PrimaryActivatorConditions value="0xc00" />
+          <ActivatorState value="0x3" />
+          <BacEntryPrimary value="0" />
+          <BacEntryAirborne value="-1" />
+          <BacEntryCharge value="0" />
+          <I_36 value="0" />
+          <BacEntryUserConnect value="8" />
+          <BacEntryVictimConnect value="8" />
+          <BacEntryUnknown value="65535" />
+          <RandomFlag value="0" />
+          <KiCost value="100" />
+          <I_68 value="0" />
+          <I_72 value="0" />
+          <ReceiverLinkId value="0x2" />
+          <I_80 value="0" />
+          <StaminaCost value="0" />
+          <I_88 value="0" />
+          <KiRequired value="0" />
+          <HealthRequired value="0.0" />
+          <TransStage value="0" />
+          <CUS_AURA value="-1" />
+          <I_104 value="2147483649" />
+          <I_108 value="0" />
+        </Parameters>
+        <ChildBcmEntries>
+          <BcmEntry ID="7">
+            <Parameters>
+              <I_00 value="0x0" />
+              <DirectionalInput value="0x0" />
+              <ButtonInput value="0x0" />
+              <HoldDownConditions value="0x0" />
+              <OpponentSizeConditions value="0x1000000" />
+              <HoldDownDelayTime value="0" />
+              <MaximumLoopDuration value="0" />
+              <PrimaryActivatorConditions value="0xc20" />
+              <ActivatorState value="0x2" />
+              <BacEntryPrimary value="1" />
+              <BacEntryAirborne value="-1" />
+              <BacEntryCharge value="0" />
+              <I_36 value="0" />
+              <BacEntryUserConnect value="9" />
+              <BacEntryVictimConnect value="9" />
+              <BacEntryUnknown value="65535" />
+              <RandomFlag value="0" />
+              <KiCost value="0" />
+              <I_68 value="0" />
+              <I_72 value="0" />
+              <ReceiverLinkId value="0x2" />
+              <I_80 value="0" />
+              <StaminaCost value="0" />
+              <I_88 value="0" />
+              <KiRequired value="0" />
+              <HealthRequired value="0.0" />
+              <TransStage value="0" />
+              <CUS_AURA value="-1" />
+              <I_104 value="2147483649" />
+              <I_108 value="0" />
+            </Parameters>
+          </BcmEntry>
+        </ChildBcmEntries>
+      </BcmEntry>
+      <BcmEntry ID="8">
+        <Parameters>
+          <I_00 value="0x0" />
+          <DirectionalInput value="0x0" />
+          <ButtonInput value="0x400" />
+          <HoldDownConditions value="0x0" />
+          <OpponentSizeConditions value="0x2000000" />
+          <HoldDownDelayTime value="0" />
+          <MaximumLoopDuration value="0" />
+          <PrimaryActivatorConditions value="0xc00" />
+          <ActivatorState value="0x3" />
+          <BacEntryPrimary value="0" />
+          <BacEntryAirborne value="-1" />
+          <BacEntryCharge value="0" />
+          <I_36 value="0" />
+          <BacEntryUserConnect value="10" />
+          <BacEntryVictimConnect value="10" />
+          <BacEntryUnknown value="65535" />
+          <RandomFlag value="0" />
+          <KiCost value="100" />
+          <I_68 value="0" />
+          <I_72 value="0" />
+          <ReceiverLinkId value="0x2" />
+          <I_80 value="0" />
+          <StaminaCost value="0" />
+          <I_88 value="0" />
+          <KiRequired value="0" />
+          <HealthRequired value="0.0" />
+          <TransStage value="0" />
+          <CUS_AURA value="-1" />
+          <I_104 value="2147483649" />
+          <I_108 value="0" />
+        </Parameters>
+        <ChildBcmEntries>
+          <BcmEntry ID="9">
+            <Parameters>
+              <I_00 value="0x0" />
+              <DirectionalInput value="0x0" />
+              <ButtonInput value="0x0" />
+              <HoldDownConditions value="0x0" />
+              <OpponentSizeConditions value="0x2000000" />
+              <HoldDownDelayTime value="0" />
+              <MaximumLoopDuration value="0" />
+              <PrimaryActivatorConditions value="0xc20" />
+              <ActivatorState value="0x2" />
+              <BacEntryPrimary value="1" />
+              <BacEntryAirborne value="-1" />
+              <BacEntryCharge value="0" />
+              <I_36 value="0" />
+              <BacEntryUserConnect value="11" />
+              <BacEntryVictimConnect value="11" />
+              <BacEntryUnknown value="65535" />
+              <RandomFlag value="0" />
+              <KiCost value="0" />
+              <I_68 value="0" />
+              <I_72 value="0" />
+              <ReceiverLinkId value="0x2" />
+              <I_80 value="0" />
+              <StaminaCost value="0" />
+              <I_88 value="0" />
+              <KiRequired value="0" />
+              <HealthRequired value="0.0" />
+              <TransStage value="0" />
+              <CUS_AURA value="-1" />
+              <I_104 value="2147483649" />
+              <I_108 value="0" />
+            </Parameters>
+          </BcmEntry>
+        </ChildBcmEntries>
+      </BcmEntry>
+    </ChildBcmEntries>
+  </BcmEntry>
+</BCM>

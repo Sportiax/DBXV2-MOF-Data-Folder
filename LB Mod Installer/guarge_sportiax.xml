@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TrackingXml>
+  <!-- For tracking installed file entries so that they can be updated and uninstalled. -->
+  <Mod Name="Guarge" Author="Sportiax" Version="1.0.0.0">
+    <Files>
+      <File FilePath="chara/SYM/SYM_PLAYER.bac">
+        <Section FileSection="BAC_Entries" IDs="727,728" />
+      </File>
+    </Files>
+    <MsgComponents />
+    <JungleFiles />
+    <Aliases />
+  </Mod>
+</TrackingXml>
