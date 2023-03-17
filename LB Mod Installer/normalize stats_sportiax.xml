@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TrackingXml>
+  <!-- For tracking installed file entries so that they can be updated and uninstalled. -->
+  <Mod Name="Normalize Stats" Author="Sportiax" Version="1.0.0.0">
+    <Files>
+      <File FilePath="system/parameter_spec_char.psc">
+        <Section FileSection="PSC_Entry_0" IDs="0,1,2,3,8,11,14,12,4,7,5,6,9,13,10,15,17,18,30,31,32,50,60" />
+        <Section FileSection="PSC_Entry_1" IDs="0,1,2,3,5,50" />
+        <Section FileSection="PSC_Entry_2" IDs="0,50" />
+        <Section FileSection="PSC_Entry_3" IDs="0" />
+        <Section FileSection="PSC_Entry_4" IDs="2,0,1,50" />
+        <Section FileSection="PSC_Entry_5" IDs="0" />
+        <Section FileSection="PSC_Entry_6" IDs="0,1,2,3,4,10,50" />
+        <Section FileSection="PSC_Entry_7" IDs="0,1" />
+        <Section FileSection="PSC_Entry_8" IDs="0,1,3,4,5,60,50" />
+        <Section FileSection="PSC_Entry_9" IDs="0,1,2,3,60,50" />
+        <Section FileSection="PSC_Entry_10" IDs="0,1,2,3,4,60,50" />
+        <Section FileSection="PSC_Entry_11" IDs="0,1,2,60,50" />
+        <Section FileSection="PSC_Entry_12" IDs="0,1,2,50" />
+        <Section FileSection="PSC_Entry_13" IDs="0,1,50" />
+        <Section FileSection="PSC_Entry_14" IDs="0,1,2,3,4,5" />
+        <Section FileSection="PSC_Entry_15" IDs="0,1,2,20,50" />
+        <Section FileSection="PSC_Entry_16" IDs="1,0,2,3,4,5,7,8,9,10,11,13,14,15,16,30,50" />
+        <Section FileSection="PSC_Entry_17" IDs="0,50" />
+        <Section FileSection="PSC_Entry_18" IDs="0" />
+        <Section FileSection="PSC_Entry_19" IDs="0" />
+        <Section FileSection="PSC_Entry_20" IDs="0,1" />
+        <Section FileSection="PSC_Entry_21" IDs="0,1" />
+        <Section FileSection="PSC_Entry_22" IDs="0,1,3,2,5,50" />
+        <Section FileSection="PSC_Entry_23" IDs="0,1,3,50" />
+        <Section FileSection="PSC_Entry_24" IDs="0,1" />
+        <Section FileSection="PSC_Entry_25" IDs="0,1,3" />
+        <Section FileSection="PSC_Entry_26" IDs="0,1,2,5,6,7,8,9,50" />
+        <Section FileSection="PSC_Entry_27" IDs="0,1,2" />
+        <Section FileSection="PSC_Entry_28" IDs="0,1" />
+        <Section FileSection="PSC_Entry_29" IDs="0" />
+        <Section FileSection="PSC_Entry_30" IDs="0,1,2,10,11,50" />
+        <Section FileSection="PSC_Entry_31" IDs="0,50" />
+        <Section FileSection="PSC_Entry_32" IDs="1,2,3" />
+        <Section FileSection="PSC_Entry_33" IDs="0" />
+        <Section FileSection="PSC_Entry_34" IDs="0,1,2,3,4,5,10,11,50" />
+        <Section FileSection="PSC_Entry_35" IDs="0,50" />
+        <Section FileSection="PSC_Entry_36" IDs="0" />
+        <Section FileSection="PSC_Entry_37" IDs="0,1,2" />
+        <Section FileSection="PSC_Entry_38" IDs="0,1,50" />
+        <Section FileSection="PSC_Entry_39" IDs="0" />
+        <Section FileSection="PSC_Entry_40" IDs="0,1,2,50" />
+        <Section FileSection="PSC_Entry_41" IDs="0,1,50" />
+        <Section FileSection="PSC_Entry_42" IDs="0,20,50" />
+        <Section FileSection="PSC_Entry_44" IDs="0,1,3,4" />
+        <Section FileSection="PSC_Entry_45" IDs="0,1" />
+        <Section FileSection="PSC_Entry_46" IDs="0,1" />
+        <Section FileSection="PSC_Entry_48" IDs="0" />
+        <Section FileSection="PSC_Entry_49" IDs="0" />
+        <Section FileSection="PSC_Entry_50" IDs="0,1,50" />
+        <Section FileSection="PSC_Entry_51" IDs="0" />
+        <Section FileSection="PSC_Entry_52" IDs="1,10,50" />
+        <Section FileSection="PSC_Entry_53" IDs="0" />
+        <Section FileSection="PSC_Entry_54" IDs="0" />
+        <Section FileSection="PSC_Entry_58" IDs="0" />
+        <Section FileSection="PSC_Entry_59" IDs="0,1,2,3,4" />
+        <Section FileSection="PSC_Entry_60" IDs="0,1,2,3" />
+        <Section FileSection="PSC_Entry_62" IDs="0,1" />
+        <Section FileSection="PSC_Entry_63" IDs="0,10" />
+        <Section FileSection="PSC_Entry_65" IDs="0,20,50" />
+        <Section FileSection="PSC_Entry_67" IDs="0,50" />
+        <Section FileSection="PSC_Entry_73" IDs="0,1" />
+        <Section FileSection="PSC_Entry_74" IDs="0,1,2" />
+        <Section FileSection="PSC_Entry_80" IDs="0,1,2,3" />
+        <Section FileSection="PSC_Entry_81" IDs="0,1" />
+        <Section FileSection="PSC_Entry_82" IDs="0,1" />
+        <Section FileSection="PSC_Entry_75" IDs="0" />
+        <Section FileSection="PSC_Entry_83" IDs="0,50" />
+        <Section FileSection="PSC_Entry_84" IDs="0,1,2" />
+        <Section FileSection="PSC_Entry_85" IDs="0,50" />
+        <Section FileSection="PSC_Entry_86" IDs="0,50" />
+        <Section FileSection="PSC_Entry_87" IDs="0,50" />
+        <Section FileSection="PSC_Entry_88" IDs="0,50" />
+        <Section FileSection="PSC_Entry_130" IDs="0" />
+        <Section FileSection="PSC_Entry_120" IDs="0,1" />
+        <Section FileSection="PSC_Entry_121" IDs="0,50" />
+        <Section FileSection="PSC_Entry_122" IDs="0,1,50" />
+        <Section FileSection="PSC_Entry_123" IDs="0,1,50" />
+        <Section FileSection="PSC_Entry_124" IDs="0,1" />
+        <Section FileSection="PSC_Entry_125" IDs="0" />
+        <Section FileSection="PSC_Entry_126" IDs="0" />
+        <Section FileSection="PSC_Entry_131" IDs="0" />
+        <Section FileSection="PSC_Entry_132" IDs="0,1,3" />
+        <Section FileSection="PSC_Entry_133" IDs="0,1" />
+        <Section FileSection="PSC_Entry_134" IDs="0" />
+        <Section FileSection="PSC_Entry_135" IDs="0,50" />
+        <Section FileSection="PSC_Entry_136" IDs="0" />
+        <Section FileSection="PSC_Entry_137" IDs="0" />
+        <Section FileSection="PSC_Entry_138" IDs="0,50" />
+        <Section FileSection="PSC_Entry_139" IDs="0,50" />
+        <Section FileSection="PSC_Entry_140" IDs="0,50" />
+        <Section FileSection="PSC_Entry_141" IDs="0,50" />
+        <Section FileSection="PSC_Entry_142" IDs="0" />
+        <Section FileSection="PSC_Entry_143" IDs="0" />
+        <Section FileSection="PSC_Entry_144" IDs="0,50" />
+        <Section FileSection="PSC_Entry_145" IDs="0,1" />
+        <Section FileSection="PSC_Entry_146" IDs="0" />
+        <Section FileSection="PSC_Entry_147" IDs="0,50" />
+        <Section FileSection="PSC_Entry_148" IDs="0,50" />
+        <Section FileSection="PSC_Entry_149" IDs="0,50" />
+        <Section FileSection="PSC_Entry_150" IDs="0,50" />
+        <Section FileSection="PSC_Entry_151" IDs="0" />
+        <Section FileSection="PSC_Entry_152" IDs="0,50" />
+        <Section FileSection="PSC_Entry_153" IDs="0" />
+        <Section FileSection="PSC_Entry_154" IDs="0,50" />
+        <Section FileSection="PSC_Entry_155" IDs="0,50" />
+        <Section FileSection="PSC_Entry_156" IDs="0" />
+        <Section FileSection="PSC_Entry_157" IDs="0" />
+        <Section FileSection="PSC_Entry_158" IDs="0" />
+        <Section FileSection="PSC_Entry_110" IDs="0,10" />
+        <Section FileSection="PSC_Entry_111" IDs="0" />
+        <Section FileSection="PSC_Entry_112" IDs="0" />
+        <Section FileSection="PSC_Entry_113" IDs="0,1" />
+        <Section FileSection="PSC_Entry_114" IDs="0" />
+        <Section FileSection="PSC_Entry_115" IDs="0" />
+        <Section FileSection="PSC_Entry_116" IDs="0" />
+        <Section FileSection="PSC_Entry_117" IDs="0" />
+        <Section FileSection="PSC_Entry_118" IDs="0" />
+        <Section FileSection="PSC_Entry_204" IDs="0" />
+        <Section FileSection="PSC_Entry_201" IDs="0" />
+        <Section FileSection="PSC_Entry_202" IDs="0" />
+        <Section FileSection="PSC_Entry_203" IDs="0" />
+        <Section FileSection="PSC_Entry_206" IDs="0" />
+        <Section FileSection="PSC_Entry_207" IDs="0" />
+        <Section FileSection="PSC_Entry_208" IDs="0" />
+        <Section FileSection="PSC_Entry_100" IDs="0,1,2,3,4,5,6,7,8,9,10,11" />
+        <Section FileSection="PSC_Entry_101" IDs="0,1,2,3,4,5,6,7,8,9,10,11" />
+        <Section FileSection="PSC_Entry_102" IDs="0,1,2,3,4,5,6,7,8,9,10,11" />
+        <Section FileSection="PSC_Entry_103" IDs="0,1,2,3,4,5,6,7,8,9,10,11" />
+        <Section FileSection="PSC_Entry_104" IDs="0,1,2,3,4,5,6,7,8,9,10,11" />
+        <Section FileSection="PSC_Entry_105" IDs="0,1,2,3,4,5,6,7,8,9,10,11" />
+        <Section FileSection="PSC_Entry_106" IDs="0,1,2,3,4,5,6,7,8,9,10,11" />
+        <Section FileSection="PSC_Entry_107" IDs="0,1,2,3,4,5,6,7,8,9,10,11" />
+      </File>
+    </Files>
+    <MsgComponents />
+    <JungleFiles />
+    <Aliases />
+  </Mod>
+</TrackingXml>
